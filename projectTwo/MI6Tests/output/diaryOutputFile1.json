@@ -1,0 +1,207 @@
+{
+  "reports": [
+    {
+      "M": 3,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "002",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Summer Smith",
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Ionic Defibulizer2",
+      "timeIssued": 5,
+      "QTime": 5,
+      "timeCreated": 4
+    },
+    {
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Interdimensional Goggles4",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 6
+    },
+    {
+      "M": 5,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Mr. Goldenfold"
+      ],
+      "gadgetName": "Dream inceptor5",
+      "timeIssued": 3,
+      "QTime": 3,
+      "timeCreated": 3
+    },
+    {
+      "M": 2,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Arthricia"
+      ],
+      "gadgetName": "Meeseeks Box2",
+      "timeIssued": 10,
+      "QTime": 15,
+      "timeCreated": 10
+    },
+    {
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 16,
+      "QTime": 15,
+      "timeCreated": 15
+    },
+    {
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Arthricia",
+        "Summer Smith"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 19,
+      "QTime": 28,
+      "timeCreated": 18
+    },
+    {
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Emergency Bionic Arm",
+      "timeIssued": 34,
+      "QTime": 34,
+      "timeCreated": 34
+    },
+    {
+      "M": 6,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 16,
+      "QTime": 28,
+      "timeCreated": 15
+    },
+    {
+      "M": 3,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Dream inceptor3",
+      "timeIssued": 24,
+      "QTime": 35,
+      "timeCreated": 23
+    },
+    {
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 42,
+      "QTime": 42,
+      "timeCreated": 42
+    },
+    {
+      "M": 3,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Interdimensional Goggles3",
+      "timeIssued": 39,
+      "QTime": 41,
+      "timeCreated": 39
+    },
+    {
+      "M": 6,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 43,
+      "QTime": 46,
+      "timeCreated": 43
+    },
+    {
+      "M": 1,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "001",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Mr. Goldenfold",
+        "Fart"
+      ],
+      "gadgetName": "Demonic Alien Containment Box2",
+      "timeIssued": 41,
+      "QTime": 41,
+      "timeCreated": 41
+    },
+    {
+      "M": 5,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 48,
+      "QTime": 51,
+      "timeCreated": 48
+    }
+  ],
+  "total": 27
+}

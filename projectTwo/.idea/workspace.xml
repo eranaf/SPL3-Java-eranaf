@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f82c0a7d-b5a6-4ef9-985d-34bdad6fc69a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="projectTwo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="moduleName" value="projectTwo" />
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UyJ8JTQzZLWYDnX3xYXDDREHmh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowDuplicates.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="bgu.spl.mics.application.passiveObjects" />
+      <recent name="bgu.spl.mics" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="bgu.spl.mics" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ערן אפללו\IdeaProjects\projectTwo" />
+      <recent name="C:\Users\ערן אפללו\IdeaProjects\projectTwo\src\main\java\bgu\spl\mics" />
+      <recent name="C:\Users\ערן אפללו\IdeaProjects\projectTwo\src\main\java\bgu\spl\mics\example" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ערן אפללו\IdeaProjects\projectTwo\src\main\java\bgu\spl\mics\application" />
+      <recent name="C:\Users\ערן אפללו\IdeaProjects\projectTwo\src" />
+      <recent name="C:\Users\ערן אפללו\IdeaProjects\projectTwo\src\main\java\bgu\spl\mics" />
+      <recent name="C:\Users\ערן אפללו\IdeaProjects\projectTwo" />
+      <recent name="C:\Users\ערן אפללו\IdeaProjects\projectTwo\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MI6tests">
+    <configuration name="MI6Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bgu.spl.mics.application.MI6Runner" />
+      <module name="projectTwo" />
+      <option name="PROGRAM_PARAMETERS" value="boaz-input2.json Inventory.json Diary.json" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bgu.spl.mics.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MI6tests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bgu.spl.mics.MI6tests" />
+      <module name="projectTwo" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\ערן אפללו\IdeaProjects\projectTwo\src\MI6Tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bgu.spl.mics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MI6tests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bgu.spl.mics.application.MI6tests" />
+      <module name="projectTwo" />
+      <option name="PROGRAM_PARAMETERS" value="MI6Tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bgu.spl.mics.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MI6Runner" />
+      <item itemvalue="Application.MI6tests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MI6tests" />
+        <item itemvalue="Application.MI6Runner" />
+        <item itemvalue="Application.MI6tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f82c0a7d-b5a6-4ef9-985d-34bdad6fc69a" name="Default Changelist" comment="" />
+      <created>1576322741190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576322741190</updated>
+      <workItem from="1576322744831" duration="15174000" />
+      <workItem from="1576584090755" duration="156133000" />
+      <workItem from="1577907805449" duration="3717000" />
+      <workItem from="1578501771825" duration="45000" />
+      <workItem from="1578503455561" duration="311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="82" key="#Project_Structure" timestamp="1577382725507">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="82" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1577382725507" />
+    <state x="183" y="170" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1577192528473">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="183" y="170" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1577192528473" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577714861822">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577714861822" />
+    <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1577384873690">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1577384873690" />
+    <state x="190" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1577402304673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="190" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1577402304673" />
+    <state x="183" y="274" width="403" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577383849297">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="183" y="274" width="403" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1577383849297" />
+    <state x="115" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576683079953">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="115" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1576683079953" />
+    <state width="533" height="466" key="DebuggerActiveHint" timestamp="1577305835865">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="533" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1577305835865" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1577383130363">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577383130363" />
+    <state width="1493" height="194" key="GridCell.Tab.0.bottom" timestamp="1577807714199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577807714199" />
+    <state width="1493" height="194" key="GridCell.Tab.0.center" timestamp="1577807714199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577807714199" />
+    <state width="1493" height="194" key="GridCell.Tab.0.left" timestamp="1577807714199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577807714199" />
+    <state width="1493" height="194" key="GridCell.Tab.0.right" timestamp="1577807714199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577807714199" />
+    <state width="1493" height="194" key="GridCell.Tab.1.bottom" timestamp="1577807714199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="194" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577807714199" />
+    <state width="1493" height="194" key="GridCell.Tab.1.center" timestamp="1577807714199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="194" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1577807714199" />
+    <state width="1493" height="194" key="GridCell.Tab.1.left" timestamp="1577807714199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="194" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1577807714199" />
+    <state width="1493" height="194" key="GridCell.Tab.1.right" timestamp="1577807714199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="194" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577807714199" />
+    <state x="548" y="142" width="606" height="363" key="com.intellij.ide.util.TipDialog" timestamp="1578501777651">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="142" width="606" height="363" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578501777651" />
+    <state x="779" y="174" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1576325913718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="779" y="174" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1576325913718" />
+    <state x="927" y="35" width="609" height="789" key="find.popup" timestamp="1576366470786">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="927" y="35" width="609" height="789" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1576366470786" />
+    <state x="209" y="107" key="new project wizard" timestamp="1578503763829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1578503763829" />
+    <state x="124" y="190" key="run.anything.popup" timestamp="1577394484159">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="124" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1577394484159" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1577303692295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1577303692295" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((MessageBrokerImpl)this).mapEventClass" custom="bgu.spl.mics.MessageBrokerImpl" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/projectTwo$MI6Runner.ic" NAME="MI6Runner Coverage Results" MODIFIED="1577384740140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bgu.spl.mics.application.*</FILTER>
+    </SUITE>
+  </component>
+</project>

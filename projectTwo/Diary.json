@@ -1,0 +1,35 @@
+{
+  "reports": [
+    {
+      "missionName": "Land of Riches",
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "007"
+      ],
+      "agentsSerialNames": [
+        "James Bond"
+      ],
+      "gadgetName": "Pistol",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "missionName": "Thunderball",
+      "M": 1,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "007"
+      ],
+      "agentsSerialNames": [
+        "James Bond"
+      ],
+      "gadgetName": "Sky Hook",
+      "timeIssued": 3,
+      "QTime": 5,
+      "timeCreated": 3
+    }
+  ],
+  "total": 5
+}

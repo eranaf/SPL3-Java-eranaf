@@ -1,0 +1,4787 @@
+{
+  "reports": [
+    {
+      "M": 3,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "002",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Summer Smith",
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Ionic Defibulizer2",
+      "timeIssued": 5,
+      "QTime": 5,
+      "timeCreated": 4
+    },
+    {
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Interdimensional Goggles4",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 6
+    },
+    {
+      "M": 5,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Mr. Goldenfold"
+      ],
+      "gadgetName": "Dream inceptor5",
+      "timeIssued": 3,
+      "QTime": 3,
+      "timeCreated": 3
+    },
+    {
+      "M": 2,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Arthricia"
+      ],
+      "gadgetName": "Meeseeks Box2",
+      "timeIssued": 10,
+      "QTime": 15,
+      "timeCreated": 10
+    },
+    {
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 16,
+      "QTime": 15,
+      "timeCreated": 15
+    },
+    {
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Arthricia",
+        "Summer Smith"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 19,
+      "QTime": 28,
+      "timeCreated": 18
+    },
+    {
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Emergency Bionic Arm",
+      "timeIssued": 34,
+      "QTime": 34,
+      "timeCreated": 34
+    },
+    {
+      "M": 6,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 16,
+      "QTime": 28,
+      "timeCreated": 15
+    },
+    {
+      "M": 3,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Dream inceptor3",
+      "timeIssued": 24,
+      "QTime": 35,
+      "timeCreated": 23
+    },
+    {
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 42,
+      "QTime": 42,
+      "timeCreated": 42
+    },
+    {
+      "M": 3,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Interdimensional Goggles3",
+      "timeIssued": 39,
+      "QTime": 41,
+      "timeCreated": 39
+    },
+    {
+      "M": 6,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 43,
+      "QTime": 46,
+      "timeCreated": 43
+    },
+    {
+      "M": 1,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "001",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Mr. Goldenfold",
+        "Fart"
+      ],
+      "gadgetName": "Demonic Alien Containment Box2",
+      "timeIssued": 41,
+      "QTime": 41,
+      "timeCreated": 41
+    },
+    {
+      "M": 5,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 48,
+      "QTime": 51,
+      "timeCreated": 48
+    },
+    {
+      "M": 9,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "001",
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Morty Jr.",
+        "Summer Smith"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 7
+    },
+    {
+      "M": 7,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Morty Jr."
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "M": 8,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "001",
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Morty Jr.",
+        "Summer Smith"
+      ],
+      "gadgetName": "Cognition amplifier2",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 7
+    },
+    {
+      "M": 10,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsSerialNames": [
+        "King Jellybean",
+        "Summer Smith"
+      ],
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 15,
+      "QTime": 15,
+      "timeCreated": 15
+    },
+    {
+      "M": 11,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsSerialNames": [
+        "King Jellybean",
+        "Morty Jr."
+      ],
+      "gadgetName": "Demonic Alien Containment Box2",
+      "timeIssued": 30,
+      "QTime": 30,
+      "timeCreated": 30
+    },
+    {
+      "M": 10,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "001",
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Morty Jr.",
+        "Summer Smith"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 40,
+      "QTime": 40,
+      "timeCreated": 40
+    },
+    {
+      "M": 8,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Morty Jr."
+      ],
+      "gadgetName": "Timeline viewer",
+      "timeIssued": 40,
+      "QTime": 40,
+      "timeCreated": 40
+    },
+    {
+      "M": 9,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsSerialNames": [
+        "King Jellybean",
+        "Summer Smith"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 40,
+      "QTime": 40,
+      "timeCreated": 40
+    },
+    {
+      "M": 10,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsSerialNames": [
+        "King Jellybean",
+        "Summer Smith"
+      ],
+      "gadgetName": "Cognition amplifier2",
+      "timeIssued": 50,
+      "QTime": 50,
+      "timeCreated": 50
+    },
+    {
+      "M": 11,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 42,
+      "QTime": 42,
+      "timeCreated": 42
+    },
+    {
+      "M": 12,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "King Jellybean"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 42,
+      "QTime": 42,
+      "timeCreated": 42
+    },
+    {
+      "M": 8,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "King Jellybean"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 45,
+      "QTime": 51,
+      "timeCreated": 45
+    },
+    {
+      "M": 13,
+      "Moneypenny": 18,
+      "agentsSerialNumbers": [
+        "001",
+        "0010",
+        "007",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Cousin Nicky",
+        "Scary Terry",
+        "Mr. Poopybutthole",
+        "Evil Morty"
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 14,
+      "Moneypenny": 16,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "004",
+        "006",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Squanchy",
+        "Snuffles",
+        "Baby Legs",
+        "King Jellybean",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Time freezer2",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 15,
+      "Moneypenny": 14,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Rick Sanchez"
+      ],
+      "gadgetName": "Purge Suit2",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 7
+    },
+    {
+      "M": 21,
+      "Moneypenny": 20,
+      "agentsSerialNumbers": [
+        "003",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Snuffles",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Time freezer3",
+      "timeIssued": 9,
+      "QTime": 9,
+      "timeCreated": 9
+    },
+    {
+      "M": 19,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "004",
+        "005",
+        "007",
+        "009"
+      ],
+      "agentsSerialNames": [
+        "Baby Legs",
+        "Jessica",
+        "Mr. Poopybutthole",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Microverse battery2",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 7
+    },
+    {
+      "M": 17,
+      "Moneypenny": 18,
+      "agentsSerialNumbers": [
+        "000",
+        "005",
+        "007",
+        "009"
+      ],
+      "agentsSerialNames": [
+        "Squanchy",
+        "Jessica",
+        "Mr. Poopybutthole",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 13,
+      "QTime": 13,
+      "timeCreated": 13
+    },
+    {
+      "M": 24,
+      "Moneypenny": 16,
+      "agentsSerialNumbers": [
+        "000",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Squanchy",
+        "Evil Morty"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 13,
+      "QTime": 13,
+      "timeCreated": 13
+    },
+    {
+      "M": 22,
+      "Moneypenny": 22,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "006",
+        "009"
+      ],
+      "agentsSerialNames": [
+        "Cousin Nicky",
+        "Snuffles",
+        "King Jellybean",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 9,
+      "QTime": 9,
+      "timeCreated": 9
+    },
+    {
+      "M": 23,
+      "Moneypenny": 14,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Futuristic guns4",
+      "timeIssued": 17,
+      "QTime": 17,
+      "timeCreated": 17
+    },
+    {
+      "M": 18,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "003",
+        "006",
+        "009"
+      ],
+      "agentsSerialNames": [
+        "Snuffles",
+        "King Jellybean",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Dream inceptor2",
+      "timeIssued": 18,
+      "QTime": 18,
+      "timeCreated": 18
+    },
+    {
+      "M": 20,
+      "Moneypenny": 24,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "004",
+        "006",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Squanchy",
+        "Cousin Nicky",
+        "Baby Legs",
+        "King Jellybean",
+        "Evil Morty"
+      ],
+      "gadgetName": "Shrink ray",
+      "timeIssued": 12,
+      "QTime": 12,
+      "timeCreated": 12
+    },
+    {
+      "M": 27,
+      "Moneypenny": 24,
+      "agentsSerialNumbers": [
+        "002",
+        "005",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Rick Sanchez",
+        "Jessica",
+        "King Jellybean"
+      ],
+      "gadgetName": "Portal gun2",
+      "timeIssued": 20,
+      "QTime": 20,
+      "timeCreated": 20
+    },
+    {
+      "M": 15,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Snuffles"
+      ],
+      "gadgetName": "Dream inceptor3",
+      "timeIssued": 27,
+      "QTime": 27,
+      "timeCreated": 27
+    },
+    {
+      "M": 25,
+      "Moneypenny": 22,
+      "agentsSerialNumbers": [
+        "004",
+        "006",
+        "007",
+        "008",
+        "009"
+      ],
+      "agentsSerialNames": [
+        "Baby Legs",
+        "King Jellybean",
+        "Mr. Poopybutthole",
+        "Evil Morty",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 19,
+      "QTime": 19,
+      "timeCreated": 19
+    },
+    {
+      "M": 13,
+      "Moneypenny": 16,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "004",
+        "006",
+        "009"
+      ],
+      "agentsSerialNames": [
+        "Cousin Nicky",
+        "Snuffles",
+        "Baby Legs",
+        "King Jellybean",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Butter-passing robot",
+      "timeIssued": 24,
+      "QTime": 24,
+      "timeCreated": 24
+    },
+    {
+      "M": 19,
+      "Moneypenny": 20,
+      "agentsSerialNumbers": [
+        "004",
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Baby Legs",
+        "Jessica"
+      ],
+      "gadgetName": "Futuristic guns5",
+      "timeIssued": 28,
+      "QTime": 28,
+      "timeCreated": 28
+    },
+    {
+      "M": 20,
+      "Moneypenny": 18,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "004",
+        "005",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Squanchy",
+        "Cousin Nicky",
+        "Baby Legs",
+        "Jessica",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 34,
+      "QTime": 34,
+      "timeCreated": 34
+    },
+    {
+      "M": 17,
+      "Moneypenny": 16,
+      "agentsSerialNumbers": [
+        "004",
+        "005",
+        "006",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Baby Legs",
+        "Jessica",
+        "King Jellybean",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 35,
+      "QTime": 35,
+      "timeCreated": 35
+    },
+    {
+      "M": 21,
+      "Moneypenny": 22,
+      "agentsSerialNumbers": [
+        "000",
+        "005",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Squanchy",
+        "Jessica",
+        "King Jellybean"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 29,
+      "QTime": 29,
+      "timeCreated": 29
+    },
+    {
+      "M": 14,
+      "Moneypenny": 14,
+      "agentsSerialNumbers": [
+        "003",
+        "009"
+      ],
+      "agentsSerialNames": [
+        "Snuffles",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Froopyland Chalk2",
+      "timeIssued": 27,
+      "QTime": 27,
+      "timeCreated": 27
+    },
+    {
+      "M": 22,
+      "Moneypenny": 24,
+      "agentsSerialNumbers": [
+        "006",
+        "008",
+        "009"
+      ],
+      "agentsSerialNames": [
+        "King Jellybean",
+        "Evil Morty",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers",
+      "timeIssued": 31,
+      "QTime": 31,
+      "timeCreated": 31
+    },
+    {
+      "M": 25,
+      "Moneypenny": 24,
+      "agentsSerialNumbers": [
+        "003",
+        "004",
+        "005",
+        "008",
+        "009"
+      ],
+      "agentsSerialNames": [
+        "Snuffles",
+        "Baby Legs",
+        "Jessica",
+        "Evil Morty",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 42,
+      "QTime": 42,
+      "timeCreated": 42
+    },
+    {
+      "M": 23,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003",
+        "009"
+      ],
+      "agentsSerialNames": [
+        "Squanchy",
+        "Cousin Nicky",
+        "Snuffles",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 37,
+      "QTime": 37,
+      "timeCreated": 37
+    },
+    {
+      "M": 18,
+      "Moneypenny": 20,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "005",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Squanchy",
+        "Cousin Nicky",
+        "Jessica",
+        "Evil Morty"
+      ],
+      "gadgetName": "Love Potion2",
+      "timeIssued": 38,
+      "QTime": 38,
+      "timeCreated": 38
+    },
+    {
+      "M": 24,
+      "Moneypenny": 14,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "004",
+        "008",
+        "009"
+      ],
+      "agentsSerialNames": [
+        "Squanchy",
+        "Snuffles",
+        "Baby Legs",
+        "Evil Morty",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Interdimensional Goggles2",
+      "timeIssued": 36,
+      "QTime": 36,
+      "timeCreated": 36
+    },
+    {
+      "M": 26,
+      "Moneypenny": 16,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Squanchy",
+        "Cousin Nicky",
+        "Evil Morty"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 45,
+      "QTime": 45,
+      "timeCreated": 45
+    },
+    {
+      "M": 27,
+      "Moneypenny": 18,
+      "agentsSerialNumbers": [
+        "003",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Snuffles",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Laser Gun2",
+      "timeIssued": 42,
+      "QTime": 42,
+      "timeCreated": 42
+    },
+    {
+      "M": 15,
+      "Moneypenny": 20,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Squanchy",
+        "Rick Sanchez"
+      ],
+      "gadgetName": "Neutrino bomb2",
+      "timeIssued": 50,
+      "QTime": 50,
+      "timeCreated": 50
+    },
+    {
+      "M": 19,
+      "Moneypenny": 22,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "005",
+        "007",
+        "009"
+      ],
+      "agentsSerialNames": [
+        "Cousin Nicky",
+        "Rick Sanchez",
+        "Jessica",
+        "Mr. Poopybutthole",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 54,
+      "QTime": 54,
+      "timeCreated": 54
+    },
+    {
+      "M": 17,
+      "Moneypenny": 14,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "003",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Cousin Nicky",
+        "Rick Sanchez",
+        "Snuffles",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 65,
+      "QTime": 65,
+      "timeCreated": 65
+    },
+    {
+      "M": 14,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "003",
+        "004",
+        "005",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Snuffles",
+        "Baby Legs",
+        "Jessica",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Futuristic guns2",
+      "timeIssued": 48,
+      "QTime": 48,
+      "timeCreated": 48
+    },
+    {
+      "M": 18,
+      "Moneypenny": 22,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Cousin Nicky",
+        "Rick Sanchez",
+        "Snuffles"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 67,
+      "QTime": 67,
+      "timeCreated": 67
+    },
+    {
+      "M": 16,
+      "Moneypenny": 24,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "005",
+        "006",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Squanchy",
+        "Snuffles",
+        "Jessica",
+        "King Jellybean",
+        "Evil Morty"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 68,
+      "QTime": 68,
+      "timeCreated": 68
+    },
+    {
+      "M": 23,
+      "Moneypenny": 20,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Squanchy"
+      ],
+      "gadgetName": "Meeseeks Box",
+      "timeIssued": 67,
+      "QTime": 67,
+      "timeCreated": 67
+    },
+    {
+      "M": 25,
+      "Moneypenny": 18,
+      "agentsSerialNumbers": [
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Evil Morty"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 71,
+      "QTime": 71,
+      "timeCreated": 71
+    },
+    {
+      "M": 27,
+      "Moneypenny": 16,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "005",
+        "006",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Cousin Nicky",
+        "Snuffles",
+        "Jessica",
+        "King Jellybean",
+        "Evil Morty"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 72,
+      "QTime": 72,
+      "timeCreated": 72
+    },
+    {
+      "M": 26,
+      "Moneypenny": 14,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Squanchy"
+      ],
+      "gadgetName": "Interdimensional Goggles2",
+      "timeIssued": 74,
+      "QTime": 74,
+      "timeCreated": 74
+    },
+    {
+      "M": 13,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "006"
+      ],
+      "agentsSerialNames": [
+        "King Jellybean"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 80,
+      "QTime": 80,
+      "timeCreated": 80
+    },
+    {
+      "M": 19,
+      "Moneypenny": 24,
+      "agentsSerialNumbers": [
+        "001",
+        "006",
+        "009"
+      ],
+      "agentsSerialNames": [
+        "Cousin Nicky",
+        "King Jellybean",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 89,
+      "QTime": 89,
+      "timeCreated": 89
+    },
+    {
+      "M": 22,
+      "Moneypenny": 16,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Baby Legs"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 93,
+      "QTime": 93,
+      "timeCreated": 93
+    },
+    {
+      "M": 21,
+      "Moneypenny": 18,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Baby Legs"
+      ],
+      "gadgetName": "Futuristic guns3",
+      "timeIssued": 91,
+      "QTime": 91,
+      "timeCreated": 91
+    },
+    {
+      "M": 28,
+      "Moneypenny": 26,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Jerry Smith"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 11,
+      "QTime": 11,
+      "timeCreated": 11
+    },
+    {
+      "M": 29,
+      "Moneypenny": 26,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Jerry Smith",
+        "Fart"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers",
+      "timeIssued": 14,
+      "QTime": 14,
+      "timeCreated": 14
+    },
+    {
+      "M": 30,
+      "Moneypenny": 26,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Jerry Smith"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 17,
+      "QTime": 17,
+      "timeCreated": 17
+    },
+    {
+      "M": 28,
+      "Moneypenny": 26,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Jerry Smith"
+      ],
+      "gadgetName": "Meeseeks Box",
+      "timeIssued": 26,
+      "QTime": 26,
+      "timeCreated": 26
+    },
+    {
+      "M": 29,
+      "Moneypenny": 26,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Jerry Smith"
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 26,
+      "QTime": 28,
+      "timeCreated": 26
+    },
+    {
+      "M": 30,
+      "Moneypenny": 26,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Jerry Smith",
+        "Fart"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 29,
+      "QTime": 31,
+      "timeCreated": 29
+    },
+    {
+      "M": 28,
+      "Moneypenny": 26,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Jerry Smith"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 32,
+      "QTime": 39,
+      "timeCreated": 32
+    },
+    {
+      "M": 32,
+      "Moneypenny": 30,
+      "agentsSerialNumbers": [
+        "001",
+        "004",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Beta VII",
+        "Abradolf Lincler",
+        "Tophat Jones"
+      ],
+      "gadgetName": "Interdimensional cable TV box",
+      "timeIssued": 6,
+      "QTime": 6,
+      "timeCreated": 6
+    },
+    {
+      "M": 33,
+      "Moneypenny": 32,
+      "agentsSerialNumbers": [
+        "001",
+        "004",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Beta VII",
+        "Abradolf Lincler",
+        "Tophat Jones"
+      ],
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 7
+    },
+    {
+      "M": 34,
+      "Moneypenny": 34,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Mr. Poopybutthole",
+        "Beta VII",
+        "Tophat Jones"
+      ],
+      "gadgetName": "Froopyland Chalk2",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 8
+    },
+    {
+      "M": 31,
+      "Moneypenny": 28,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Abradolf Lincler"
+      ],
+      "gadgetName": "Combat suit3",
+      "timeIssued": 3,
+      "QTime": 3,
+      "timeCreated": 3
+    },
+    {
+      "M": 35,
+      "Moneypenny": 36,
+      "agentsSerialNumbers": [
+        "003",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Unity",
+        "Abradolf Lincler"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 9,
+      "QTime": 9,
+      "timeCreated": 9
+    },
+    {
+      "M": 36,
+      "Moneypenny": 28,
+      "agentsSerialNumbers": [
+        "003",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Unity",
+        "Abradolf Lincler"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 9,
+      "QTime": 9,
+      "timeCreated": 9
+    },
+    {
+      "M": 37,
+      "Moneypenny": 30,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Beta VII",
+        "Summer Smith",
+        "Abradolf Lincler"
+      ],
+      "gadgetName": "Butter-passing robot4",
+      "timeIssued": 19,
+      "QTime": 19,
+      "timeCreated": 19
+    },
+    {
+      "M": 39,
+      "Moneypenny": 34,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Beta VII",
+        "Unity",
+        "Fart"
+      ],
+      "gadgetName": "Dream inceptor3",
+      "timeIssued": 22,
+      "QTime": 22,
+      "timeCreated": 22
+    },
+    {
+      "M": 40,
+      "Moneypenny": 36,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster",
+      "timeIssued": 22,
+      "QTime": 22,
+      "timeCreated": 22
+    },
+    {
+      "M": 41,
+      "Moneypenny": 28,
+      "agentsSerialNumbers": [
+        "002",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Summer Smith",
+        "Abradolf Lincler"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 23,
+      "QTime": 23,
+      "timeCreated": 23
+    },
+    {
+      "M": 42,
+      "Moneypenny": 30,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Mr. Poopybutthole",
+        "Summer Smith",
+        "Fart"
+      ],
+      "gadgetName": "Microverse battery",
+      "timeIssued": 28,
+      "QTime": 28,
+      "timeCreated": 28
+    },
+    {
+      "M": 43,
+      "Moneypenny": 32,
+      "agentsSerialNumbers": [
+        "000",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Mr. Poopybutthole",
+        "Abradolf Lincler"
+      ],
+      "gadgetName": "Futuristic guns5",
+      "timeIssued": 29,
+      "QTime": 29,
+      "timeCreated": 29
+    },
+    {
+      "M": 31,
+      "Moneypenny": 34,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 36,
+      "QTime": 36,
+      "timeCreated": 36
+    },
+    {
+      "M": 32,
+      "Moneypenny": 36,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Dream inceptor2",
+      "timeIssued": 36,
+      "QTime": 36,
+      "timeCreated": 36
+    },
+    {
+      "M": 33,
+      "Moneypenny": 28,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Fart"
+      ],
+      "gadgetName": "Butter-passing robot3",
+      "timeIssued": 39,
+      "QTime": 39,
+      "timeCreated": 39
+    },
+    {
+      "M": 34,
+      "Moneypenny": 30,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Abradolf Lincler"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers2",
+      "timeIssued": 43,
+      "QTime": 43,
+      "timeCreated": 43
+    },
+    {
+      "M": 43,
+      "Moneypenny": 30,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Unity"
+      ],
+      "gadgetName": "Shrink ray2",
+      "timeIssued": 53,
+      "QTime": 53,
+      "timeCreated": 53
+    },
+    {
+      "M": 38,
+      "Moneypenny": 28,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Unity"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 47,
+      "QTime": 47,
+      "timeCreated": 47
+    },
+    {
+      "M": 36,
+      "Moneypenny": 34,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Summer Smith",
+        "Unity",
+        "Abradolf Lincler"
+      ],
+      "gadgetName": "Emergency Bionic Arm2",
+      "timeIssued": 46,
+      "QTime": 46,
+      "timeCreated": 46
+    },
+    {
+      "M": 37,
+      "Moneypenny": 36,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Beta VII",
+        "Summer Smith",
+        "Abradolf Lincler"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 46,
+      "QTime": 46,
+      "timeCreated": 46
+    },
+    {
+      "M": 42,
+      "Moneypenny": 36,
+      "agentsSerialNumbers": [
+        "000",
+        "004",
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Mr. Poopybutthole",
+        "Abradolf Lincler",
+        "Fart"
+      ],
+      "gadgetName": "Dream inceptor7",
+      "timeIssued": 53,
+      "QTime": 53,
+      "timeCreated": 53
+    },
+    {
+      "M": 33,
+      "Moneypenny": 34,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Beta VII"
+      ],
+      "gadgetName": "Meeseeks Box",
+      "timeIssued": 56,
+      "QTime": 56,
+      "timeCreated": 56
+    },
+    {
+      "M": 35,
+      "Moneypenny": 28,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Fart"
+      ],
+      "gadgetName": "Ionic Defibulizer2",
+      "timeIssued": 58,
+      "QTime": 58,
+      "timeCreated": 58
+    },
+    {
+      "M": 39,
+      "Moneypenny": 36,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Mr. Poopybutthole",
+        "Summer Smith",
+        "Abradolf Lincler"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 64,
+      "QTime": 64,
+      "timeCreated": 64
+    },
+    {
+      "M": 34,
+      "Moneypenny": 36,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Mr. Poopybutthole",
+        "Beta VII",
+        "Summer Smith"
+      ],
+      "gadgetName": "Dream inceptor5",
+      "timeIssued": 57,
+      "QTime": 57,
+      "timeCreated": 57
+    },
+    {
+      "M": 37,
+      "Moneypenny": 32,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 62,
+      "QTime": 62,
+      "timeCreated": 62
+    },
+    {
+      "M": 48,
+      "Moneypenny": 46,
+      "agentsSerialNumbers": [
+        "002",
+        "004",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Mr. Needful",
+        "Morty Smith",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Purge Suit2",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 46,
+      "Moneypenny": 40,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsSerialNames": [
+        "King Jellybean"
+      ],
+      "gadgetName": "Portal gun3",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 54,
+      "Moneypenny": 38,
+      "agentsSerialNumbers": [
+        "001",
+        "0010",
+        "003",
+        "006",
+        "009"
+      ],
+      "agentsSerialNames": [
+        "Snowball",
+        "Snuffles",
+        "Tophat Jones",
+        "Gazorpazorpfield",
+        "Stealy"
+      ],
+      "gadgetName": "Grappling Shoes2",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "M": 49,
+      "Moneypenny": 38,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "004",
+        "007",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Cousin Nicky",
+        "Mr. Needful",
+        "Morty Smith",
+        "Scary Terry",
+        "Abradolf Lincler"
+      ],
+      "gadgetName": "Love Potion4",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 45,
+      "Moneypenny": 42,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Cousin Nicky",
+        "Snowball",
+        "Tophat Jones",
+        "Scary Terry"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 51,
+      "Moneypenny": 42,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "007",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Snowball",
+        "Mr. Needful",
+        "Scary Terry",
+        "Abradolf Lincler"
+      ],
+      "gadgetName": "Demonic Alien Containment Box2",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "M": 47,
+      "Moneypenny": 44,
+      "agentsSerialNumbers": [
+        "003",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Tophat Jones",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 46,
+      "Moneypenny": 38,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Cousin Nicky",
+        "Mr. Needful",
+        "Abradolf Lincler"
+      ],
+      "gadgetName": "Microverse battery5",
+      "timeIssued": 3,
+      "QTime": 5,
+      "timeCreated": 3
+    },
+    {
+      "M": 53,
+      "Moneypenny": 44,
+      "agentsSerialNumbers": [
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Scary Terry"
+      ],
+      "gadgetName": "Combat suit3",
+      "timeIssued": 4,
+      "QTime": 4,
+      "timeCreated": 4
+    },
+    {
+      "M": 50,
+      "Moneypenny": 40,
+      "agentsSerialNumbers": [
+        "000",
+        "005",
+        "008",
+        "009"
+      ],
+      "agentsSerialNames": [
+        "Cousin Nicky",
+        "King Jellybean",
+        "Abradolf Lincler",
+        "Stealy"
+      ],
+      "gadgetName": "Interdimensional cable TV box",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 52,
+      "Moneypenny": 44,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "006",
+        "009"
+      ],
+      "agentsSerialNames": [
+        "Cousin Nicky",
+        "Snowball",
+        "Gazorpazorpfield",
+        "Stealy"
+      ],
+      "gadgetName": "Interdimensional cable TV box2",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "M": 55,
+      "Moneypenny": 40,
+      "agentsSerialNumbers": [
+        "002",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Mr. Needful",
+        "Tophat Jones"
+      ],
+      "gadgetName": "Portal gun2",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "M": 48,
+      "Moneypenny": 42,
+      "agentsSerialNumbers": [
+        "002",
+        "004",
+        "005",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Mr. Needful",
+        "Morty Smith",
+        "King Jellybean",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Portal gun7",
+      "timeIssued": 3,
+      "QTime": 3,
+      "timeCreated": 3
+    },
+    {
+      "M": 44,
+      "Moneypenny": 46,
+      "agentsSerialNumbers": [
+        "001",
+        "006",
+        "009"
+      ],
+      "agentsSerialNames": [
+        "Snowball",
+        "Gazorpazorpfield",
+        "Stealy"
+      ],
+      "gadgetName": "Timeline viewer",
+      "timeIssued": 3,
+      "QTime": 5,
+      "timeCreated": 3
+    },
+    {
+      "M": 57,
+      "Moneypenny": 60,
+      "agentsSerialNumbers": [
+        "001",
+        "004",
+        "005",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Loggins",
+        "Scary Terry",
+        "Morty Smith",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 58,
+      "Moneypenny": 56,
+      "agentsSerialNumbers": [
+        "000",
+        "004",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Tophat Jones",
+        "Scary Terry",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 59,
+      "Moneypenny": 54,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Morty Smith"
+      ],
+      "gadgetName": "Timeline viewer2",
+      "timeIssued": 3,
+      "QTime": 3,
+      "timeCreated": 3
+    },
+    {
+      "M": 56,
+      "Moneypenny": 62,
+      "agentsSerialNumbers": [
+        "003",
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Lighthouse Chief",
+        "Morty Smith"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 60,
+      "Moneypenny": 52,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Loggins"
+      ],
+      "gadgetName": "Froopyland Chalk3",
+      "timeIssued": 4,
+      "QTime": 4,
+      "timeCreated": 4
+    },
+    {
+      "M": 62,
+      "Moneypenny": 48,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "004",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Arthricia",
+        "Lighthouse Chief",
+        "Scary Terry",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster",
+      "timeIssued": 4,
+      "QTime": 4,
+      "timeCreated": 4
+    },
+    {
+      "M": 70,
+      "Moneypenny": 60,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Scary Terry"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 5,
+      "QTime": 5,
+      "timeCreated": 5
+    },
+    {
+      "M": 72,
+      "Moneypenny": 62,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Lighthouse Chief"
+      ],
+      "gadgetName": "Futuristic guns3",
+      "timeIssued": 4,
+      "QTime": 4,
+      "timeCreated": 4
+    },
+    {
+      "M": 63,
+      "Moneypenny": 58,
+      "agentsSerialNumbers": [
+        "002",
+        "004",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Arthricia",
+        "Scary Terry",
+        "King Jellybean"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 4,
+      "QTime": 4,
+      "timeCreated": 4
+    },
+    {
+      "M": 61,
+      "Moneypenny": 50,
+      "agentsSerialNumbers": [
+        "002",
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Arthricia",
+        "Morty Smith"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 4,
+      "QTime": 4,
+      "timeCreated": 4
+    },
+    {
+      "M": 56,
+      "Moneypenny": 60,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "006",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Loggins",
+        "Arthricia",
+        "King Jellybean",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 9,
+      "QTime": 9,
+      "timeCreated": 9
+    },
+    {
+      "M": 71,
+      "Moneypenny": 56,
+      "agentsSerialNumbers": [
+        "005",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Morty Smith",
+        "King Jellybean"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 6,
+      "QTime": 6,
+      "timeCreated": 5
+    },
+    {
+      "M": 61,
+      "Moneypenny": 56,
+      "agentsSerialNumbers": [
+        "001",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Loggins",
+        "Scary Terry"
+      ],
+      "gadgetName": "Timeline viewer4",
+      "timeIssued": 11,
+      "QTime": 18,
+      "timeCreated": 11
+    },
+    {
+      "M": 64,
+      "Moneypenny": 62,
+      "agentsSerialNumbers": [
+        "003",
+        "005",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Lighthouse Chief",
+        "Morty Smith",
+        "King Jellybean"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 9,
+      "QTime": 9,
+      "timeCreated": 8
+    },
+    {
+      "M": 67,
+      "Moneypenny": 50,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "002",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Tophat Jones",
+        "Loggins",
+        "Arthricia",
+        "Baby Legs"
+      ],
+      "gadgetName": "Purge Suit7",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 7
+    },
+    {
+      "M": 69,
+      "Moneypenny": 54,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Loggins"
+      ],
+      "gadgetName": "Purge Suit2",
+      "timeIssued": 6,
+      "QTime": 6,
+      "timeCreated": 5
+    },
+    {
+      "M": 71,
+      "Moneypenny": 54,
+      "agentsSerialNumbers": [
+        "002",
+        "004",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Arthricia",
+        "Scary Terry",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 16,
+      "QTime": 18,
+      "timeCreated": 16
+    },
+    {
+      "M": 66,
+      "Moneypenny": 48,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "005",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Loggins",
+        "Lighthouse Chief",
+        "Morty Smith",
+        "King Jellybean"
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 7
+    },
+    {
+      "M": 71,
+      "Moneypenny": 52,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "003",
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Tophat Jones",
+        "Arthricia",
+        "Lighthouse Chief",
+        "Morty Smith"
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 24,
+      "QTime": 24,
+      "timeCreated": 23
+    },
+    {
+      "M": 65,
+      "Moneypenny": 58,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "005",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Tophat Jones",
+        "Loggins",
+        "Morty Smith",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Timeline viewer3",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 7
+    },
+    {
+      "M": 57,
+      "Moneypenny": 56,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Loggins",
+        "Lighthouse Chief",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster",
+      "timeIssued": 9,
+      "QTime": 9,
+      "timeCreated": 9
+    },
+    {
+      "M": 59,
+      "Moneypenny": 52,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Tophat Jones"
+      ],
+      "gadgetName": "Interdimensional cable TV box",
+      "timeIssued": 10,
+      "QTime": 10,
+      "timeCreated": 10
+    },
+    {
+      "M": 60,
+      "Moneypenny": 50,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "004",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Arthricia",
+        "Lighthouse Chief",
+        "Scary Terry",
+        "King Jellybean"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 10,
+      "QTime": 10,
+      "timeCreated": 10
+    },
+    {
+      "M": 72,
+      "Moneypenny": 54,
+      "agentsSerialNumbers": [
+        "002",
+        "005",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Arthricia",
+        "Morty Smith",
+        "King Jellybean"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 23,
+      "QTime": 23,
+      "timeCreated": 22
+    },
+    {
+      "M": 68,
+      "Moneypenny": 52,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "004",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Tophat Jones",
+        "Arthricia",
+        "Scary Terry",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Purge Suit2",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 7
+    },
+    {
+      "M": 62,
+      "Moneypenny": 62,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "003",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Loggins",
+        "Arthricia",
+        "Lighthouse Chief",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Purge Suit5",
+      "timeIssued": 22,
+      "QTime": 22,
+      "timeCreated": 22
+    },
+    {
+      "M": 58,
+      "Moneypenny": 54,
+      "agentsSerialNumbers": [
+        "002",
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Arthricia",
+        "Morty Smith"
+      ],
+      "gadgetName": "Futuristic guns3",
+      "timeIssued": 10,
+      "QTime": 10,
+      "timeCreated": 10
+    },
+    {
+      "M": 56,
+      "Moneypenny": 52,
+      "agentsSerialNumbers": [
+        "002",
+        "004",
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Arthricia",
+        "Scary Terry",
+        "Morty Smith"
+      ],
+      "gadgetName": "Interdimensional cable TV box3",
+      "timeIssued": 19,
+      "QTime": 19,
+      "timeCreated": 19
+    },
+    {
+      "M": 70,
+      "Moneypenny": 58,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Loggins"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers",
+      "timeIssued": 15,
+      "QTime": 15,
+      "timeCreated": 14
+    },
+    {
+      "M": 61,
+      "Moneypenny": 58,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Arthricia"
+      ],
+      "gadgetName": "Froopyland Chalk4",
+      "timeIssued": 22,
+      "QTime": 22,
+      "timeCreated": 22
+    },
+    {
+      "M": 64,
+      "Moneypenny": 50,
+      "agentsSerialNumbers": [
+        "002",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Arthricia",
+        "Lighthouse Chief"
+      ],
+      "gadgetName": "Purge Suit6",
+      "timeIssued": 18,
+      "QTime": 20,
+      "timeCreated": 18
+    },
+    {
+      "M": 69,
+      "Moneypenny": 60,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "004",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Tophat Jones",
+        "Lighthouse Chief",
+        "Scary Terry",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 16,
+      "QTime": 22,
+      "timeCreated": 16
+    },
+    {
+      "M": 73,
+      "Moneypenny": 64,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Krombopulos Michael",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 75,
+      "Moneypenny": 64,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Krombopulos Michael"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 74,
+      "Moneypenny": 64,
+      "agentsSerialNumbers": [
+        "001",
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Jan Michael Vincent",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Space cruiser2",
+      "timeIssued": 5,
+      "QTime": 5,
+      "timeCreated": 5
+    },
+    {
+      "M": 76,
+      "Moneypenny": 64,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Interdimensional cable TV box2",
+      "timeIssued": 9,
+      "QTime": 9,
+      "timeCreated": 9
+    },
+    {
+      "M": 73,
+      "Moneypenny": 64,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Krombopulos Michael"
+      ],
+      "gadgetName": "Interdimensional cable TV box2",
+      "timeIssued": 13,
+      "QTime": 13,
+      "timeCreated": 13
+    },
+    {
+      "M": 75,
+      "Moneypenny": 64,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Space cruiser2",
+      "timeIssued": 18,
+      "QTime": 18,
+      "timeCreated": 18
+    },
+    {
+      "M": 74,
+      "Moneypenny": 64,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Krombopulos Michael",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Emergency Bionic Arm",
+      "timeIssued": 20,
+      "QTime": 25,
+      "timeCreated": 20
+    },
+    {
+      "M": 76,
+      "Moneypenny": 64,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Krombopulos Michael"
+      ],
+      "gadgetName": "Space cruiser2",
+      "timeIssued": 20,
+      "QTime": 26,
+      "timeCreated": 20
+    },
+    {
+      "M": 78,
+      "Moneypenny": 68,
+      "agentsSerialNumbers": [
+        "000",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Beth Smith",
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Space cruiser2",
+      "timeIssued": 4,
+      "QTime": 4,
+      "timeCreated": 4
+    },
+    {
+      "M": 77,
+      "Moneypenny": 70,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Beth Smith",
+        "Tinkles",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Neutrino bomb3",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 80,
+      "Moneypenny": 70,
+      "agentsSerialNumbers": [
+        "002",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Eyeholes Man",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Purge Suit6",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 8
+    },
+    {
+      "M": 79,
+      "Moneypenny": 66,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Beth Smith",
+        "Tinkles",
+        "Eyeholes Man"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 6,
+      "QTime": 6,
+      "timeCreated": 6
+    },
+    {
+      "M": 81,
+      "Moneypenny": 68,
+      "agentsSerialNumbers": [
+        "000",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Beth Smith",
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Curse Remover2",
+      "timeIssued": 11,
+      "QTime": 11,
+      "timeCreated": 11
+    },
+    {
+      "M": 82,
+      "Moneypenny": 66,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Eyeholes Man",
+        "Dr. Glip-Glop",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers2",
+      "timeIssued": 15,
+      "QTime": 15,
+      "timeCreated": 15
+    },
+    {
+      "M": 83,
+      "Moneypenny": 70,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Tinkles",
+        "Dr. Glip-Glop",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Space cruiser3",
+      "timeIssued": 16,
+      "QTime": 16,
+      "timeCreated": 16
+    },
+    {
+      "M": 84,
+      "Moneypenny": 66,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Beth Smith",
+        "Dr. Glip-Glop",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Curse Remover3",
+      "timeIssued": 21,
+      "QTime": 21,
+      "timeCreated": 21
+    },
+    {
+      "M": 77,
+      "Moneypenny": 70,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Curse Remover2",
+      "timeIssued": 24,
+      "QTime": 24,
+      "timeCreated": 24
+    },
+    {
+      "M": 85,
+      "Moneypenny": 68,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Portal gun5",
+      "timeIssued": 20,
+      "QTime": 20,
+      "timeCreated": 20
+    },
+    {
+      "M": 81,
+      "Moneypenny": 68,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Beth Smith",
+        "Tinkles"
+      ],
+      "gadgetName": "Meeseeks Box",
+      "timeIssued": 31,
+      "QTime": 31,
+      "timeCreated": 31
+    },
+    {
+      "M": 78,
+      "Moneypenny": 68,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Beth Smith",
+        "Eyeholes Man",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 25,
+      "QTime": 25,
+      "timeCreated": 25
+    },
+    {
+      "M": 82,
+      "Moneypenny": 66,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Emergency Bionic Arm",
+      "timeIssued": 32,
+      "QTime": 32,
+      "timeCreated": 32
+    },
+    {
+      "M": 79,
+      "Moneypenny": 66,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Ionic Defibulizer2",
+      "timeIssued": 27,
+      "QTime": 27,
+      "timeCreated": 27
+    },
+    {
+      "M": 80,
+      "Moneypenny": 70,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Beth Smith",
+        "Tinkles",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Love Potion2",
+      "timeIssued": 28,
+      "QTime": 28,
+      "timeCreated": 28
+    },
+    {
+      "M": 85,
+      "Moneypenny": 68,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Eyeholes Man"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 42,
+      "QTime": 42,
+      "timeCreated": 42
+    },
+    {
+      "M": 84,
+      "Moneypenny": 66,
+      "agentsSerialNumbers": [
+        "001",
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Tinkles",
+        "Eyeholes Man"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 43,
+      "QTime": 43,
+      "timeCreated": 43
+    },
+    {
+      "M": 83,
+      "Moneypenny": 70,
+      "agentsSerialNumbers": [
+        "001",
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Tinkles",
+        "Snowball"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 34,
+      "QTime": 34,
+      "timeCreated": 34
+    },
+    {
+      "M": 78,
+      "Moneypenny": 68,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Beth Smith",
+        "Tinkles",
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 46,
+      "QTime": 46,
+      "timeCreated": 46
+    },
+    {
+      "M": 77,
+      "Moneypenny": 70,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Beth Smith"
+      ],
+      "gadgetName": "Timeline viewer",
+      "timeIssued": 45,
+      "QTime": 45,
+      "timeCreated": 45
+    },
+    {
+      "M": 81,
+      "Moneypenny": 68,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Tinkles",
+        "Dr. Glip-Glop",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Shrink ray2",
+      "timeIssued": 52,
+      "QTime": 52,
+      "timeCreated": 52
+    },
+    {
+      "M": 79,
+      "Moneypenny": 66,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 49,
+      "QTime": 49,
+      "timeCreated": 49
+    },
+    {
+      "M": 80,
+      "Moneypenny": 70,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Beth Smith",
+        "Tinkles"
+      ],
+      "gadgetName": "Time freezer",
+      "timeIssued": 50,
+      "QTime": 50,
+      "timeCreated": 50
+    },
+    {
+      "M": 82,
+      "Moneypenny": 66,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Eyeholes Man"
+      ],
+      "gadgetName": "Purge Suit4",
+      "timeIssued": 58,
+      "QTime": 58,
+      "timeCreated": 58
+    },
+    {
+      "M": 83,
+      "Moneypenny": 70,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Beth Smith",
+        "Tinkles",
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Purge Suit4",
+      "timeIssued": 66,
+      "QTime": 66,
+      "timeCreated": 66
+    },
+    {
+      "M": 77,
+      "Moneypenny": 70,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Beth Smith"
+      ],
+      "gadgetName": "Froopyland Chalk2",
+      "timeIssued": 70,
+      "QTime": 70,
+      "timeCreated": 70
+    },
+    {
+      "M": 85,
+      "Moneypenny": 68,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Tinkles",
+        "Eyeholes Man",
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Grappling Shoes2",
+      "timeIssued": 70,
+      "QTime": 70,
+      "timeCreated": 69
+    },
+    {
+      "M": 84,
+      "Moneypenny": 66,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Time freezer",
+      "timeIssued": 70,
+      "QTime": 70,
+      "timeCreated": 69
+    },
+    {
+      "M": 79,
+      "Moneypenny": 66,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 76,
+      "QTime": 76,
+      "timeCreated": 76
+    },
+    {
+      "M": 78,
+      "Moneypenny": 68,
+      "agentsSerialNumbers": [
+        "001",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Tinkles",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Futuristic guns2",
+      "timeIssued": 75,
+      "QTime": 75,
+      "timeCreated": 75
+    },
+    {
+      "M": 87,
+      "Moneypenny": 74,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "004",
+        "005",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Morty Jr.",
+        "Gazorpazorpfield",
+        "Squanchy",
+        "Mr. Poopybutthole",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Time freezer3",
+      "timeIssued": 4,
+      "QTime": 4,
+      "timeCreated": 4
+    },
+    {
+      "M": 89,
+      "Moneypenny": 78,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Purge Suit2",
+      "timeIssued": 10,
+      "QTime": 10,
+      "timeCreated": 10
+    },
+    {
+      "M": 86,
+      "Moneypenny": 72,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Purge Suit2",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 88,
+      "Moneypenny": 76,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "005",
+        "007",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Morty Jr.",
+        "Gazorpazorpfield",
+        "Mr. Poopybutthole",
+        "Jan Michael Vincent",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Timeline viewer",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 8
+    },
+    {
+      "M": 90,
+      "Moneypenny": 80,
+      "agentsSerialNumbers": [
+        "007",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Jan Michael Vincent",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Time freezer2",
+      "timeIssued": 11,
+      "QTime": 11,
+      "timeCreated": 11
+    },
+    {
+      "M": 94,
+      "Moneypenny": 74,
+      "agentsSerialNumbers": [
+        "003",
+        "006",
+        "007",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Gazorpazorpfield",
+        "Mr. Meeseeks",
+        "Jan Michael Vincent",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 25,
+      "QTime": 25,
+      "timeCreated": 25
+    },
+    {
+      "M": 91,
+      "Moneypenny": 82,
+      "agentsSerialNumbers": [
+        "003",
+        "006",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Gazorpazorpfield",
+        "Mr. Meeseeks",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Timeline viewer2",
+      "timeIssued": 17,
+      "QTime": 17,
+      "timeCreated": 17
+    },
+    {
+      "M": 92,
+      "Moneypenny": 84,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "004",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Morty Jr.",
+        "Gazorpazorpfield",
+        "Squanchy",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Dark matter2",
+      "timeIssued": 17,
+      "QTime": 17,
+      "timeCreated": 17
+    },
+    {
+      "M": 93,
+      "Moneypenny": 72,
+      "agentsSerialNumbers": [
+        "004",
+        "005",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Squanchy",
+        "Mr. Poopybutthole",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Time freezer2",
+      "timeIssued": 20,
+      "QTime": 20,
+      "timeCreated": 20
+    },
+    {
+      "M": 95,
+      "Moneypenny": 76,
+      "agentsSerialNumbers": [
+        "004",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Squanchy",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Timeline viewer",
+      "timeIssued": 28,
+      "QTime": 28,
+      "timeCreated": 28
+    },
+    {
+      "M": 97,
+      "Moneypenny": 80,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop",
+        "Morty Smith",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 33,
+      "QTime": 33,
+      "timeCreated": 33
+    },
+    {
+      "M": 98,
+      "Moneypenny": 82,
+      "agentsSerialNumbers": [
+        "001",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Morty Smith",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Butter-passing robot",
+      "timeIssued": 37,
+      "QTime": 37,
+      "timeCreated": 37
+    },
+    {
+      "M": 99,
+      "Moneypenny": 84,
+      "agentsSerialNumbers": [
+        "004",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Squanchy",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Time freezer2",
+      "timeIssued": 37,
+      "QTime": 37,
+      "timeCreated": 37
+    },
+    {
+      "M": 96,
+      "Moneypenny": 78,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "006",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop",
+        "Gazorpazorpfield",
+        "Mr. Meeseeks",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 31,
+      "QTime": 31,
+      "timeCreated": 31
+    },
+    {
+      "M": 88,
+      "Moneypenny": 76,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "006",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop",
+        "Morty Jr.",
+        "Mr. Meeseeks",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 48,
+      "QTime": 48,
+      "timeCreated": 48
+    },
+    {
+      "M": 86,
+      "Moneypenny": 72,
+      "agentsSerialNumbers": [
+        "000",
+        "004",
+        "005",
+        "006",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop",
+        "Squanchy",
+        "Mr. Poopybutthole",
+        "Mr. Meeseeks",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 42,
+      "QTime": 42,
+      "timeCreated": 42
+    },
+    {
+      "M": 89,
+      "Moneypenny": 78,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop",
+        "Gazorpazorpfield",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Timeline viewer2",
+      "timeIssued": 50,
+      "QTime": 50,
+      "timeCreated": 50
+    },
+    {
+      "M": 87,
+      "Moneypenny": 74,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "003",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Morty Smith",
+        "Morty Jr.",
+        "Gazorpazorpfield",
+        "Squanchy"
+      ],
+      "gadgetName": "Timeline viewer2",
+      "timeIssued": 46,
+      "QTime": 46,
+      "timeCreated": 46
+    },
+    {
+      "M": 92,
+      "Moneypenny": 84,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Morty Jr."
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 58,
+      "QTime": 58,
+      "timeCreated": 58
+    },
+    {
+      "M": 90,
+      "Moneypenny": 80,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop",
+        "Morty Jr."
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 51,
+      "QTime": 51,
+      "timeCreated": 51
+    },
+    {
+      "M": 93,
+      "Moneypenny": 72,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003",
+        "004",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop",
+        "Morty Smith",
+        "Gazorpazorpfield",
+        "Squanchy",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 63,
+      "QTime": 63,
+      "timeCreated": 63
+    },
+    {
+      "M": 97,
+      "Moneypenny": 80,
+      "agentsSerialNumbers": [
+        "002",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Morty Jr.",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Emergency Bionic Arm",
+      "timeIssued": 79,
+      "QTime": 79,
+      "timeCreated": 79
+    },
+    {
+      "M": 94,
+      "Moneypenny": 74,
+      "agentsSerialNumbers": [
+        "001",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Morty Smith",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 68,
+      "QTime": 68,
+      "timeCreated": 68
+    },
+    {
+      "M": 95,
+      "Moneypenny": 76,
+      "agentsSerialNumbers": [
+        "001",
+        "004",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Morty Smith",
+        "Squanchy",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 77,
+      "QTime": 77,
+      "timeCreated": 77
+    },
+    {
+      "M": 98,
+      "Moneypenny": 82,
+      "agentsSerialNumbers": [
+        "001",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Morty Smith",
+        "Squanchy"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 80,
+      "QTime": 80,
+      "timeCreated": 80
+    },
+    {
+      "M": 96,
+      "Moneypenny": 78,
+      "agentsSerialNumbers": [
+        "001",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Morty Smith",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 77,
+      "QTime": 77,
+      "timeCreated": 77
+    },
+    {
+      "M": 99,
+      "Moneypenny": 84,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Morty Jr."
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 84,
+      "QTime": 84,
+      "timeCreated": 84
+    },
+    {
+      "M": 87,
+      "Moneypenny": 74,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "007",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop",
+        "Morty Jr.",
+        "Jan Michael Vincent",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 86,
+      "QTime": 86,
+      "timeCreated": 86
+    },
+    {
+      "M": 89,
+      "Moneypenny": 78,
+      "agentsSerialNumbers": [
+        "002",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Morty Jr.",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 93,
+      "QTime": 93,
+      "timeCreated": 93
+    },
+    {
+      "M": 86,
+      "Moneypenny": 72,
+      "agentsSerialNumbers": [
+        "000",
+        "006",
+        "007",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop",
+        "Mr. Meeseeks",
+        "Jan Michael Vincent",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 85,
+      "QTime": 85,
+      "timeCreated": 85
+    },
+    {
+      "M": 88,
+      "Moneypenny": 76,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "005",
+        "006",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop",
+        "Gazorpazorpfield",
+        "Mr. Poopybutthole",
+        "Mr. Meeseeks",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 90,
+      "QTime": 90,
+      "timeCreated": 90
+    },
+    {
+      "M": 90,
+      "Moneypenny": 80,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "005",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop",
+        "Morty Jr.",
+        "Mr. Poopybutthole",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Froopyland Chalk2",
+      "timeIssued": 93,
+      "QTime": 93,
+      "timeCreated": 93
+    },
+    {
+      "M": 92,
+      "Moneypenny": 84,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "004",
+        "006",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Morty Smith",
+        "Morty Jr.",
+        "Squanchy",
+        "Mr. Meeseeks",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 102,
+      "QTime": 102,
+      "timeCreated": 102
+    },
+    {
+      "M": 91,
+      "Moneypenny": 82,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "005",
+        "006",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop",
+        "Gazorpazorpfield",
+        "Mr. Poopybutthole",
+        "Mr. Meeseeks",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Timeline viewer3",
+      "timeIssued": 102,
+      "QTime": 102,
+      "timeCreated": 102
+    },
+    {
+      "M": 94,
+      "Moneypenny": 74,
+      "agentsSerialNumbers": [
+        "003",
+        "004",
+        "006",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Gazorpazorpfield",
+        "Squanchy",
+        "Mr. Meeseeks",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 104,
+      "QTime": 104,
+      "timeCreated": 104
+    },
+    {
+      "M": 96,
+      "Moneypenny": 78,
+      "agentsSerialNumbers": [
+        "003",
+        "005",
+        "008"
+      ],
+      "agentsSerialNames": [
+        "Gazorpazorpfield",
+        "Mr. Poopybutthole",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Froopyland Chalk2",
+      "timeIssued": 113,
+      "QTime": 113,
+      "timeCreated": 113
+    },
+    {
+      "M": 93,
+      "Moneypenny": 72,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "005",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Morty Smith",
+        "Morty Jr.",
+        "Mr. Poopybutthole",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Time freezer3",
+      "timeIssued": 102,
+      "QTime": 102,
+      "timeCreated": 102
+    },
+    {
+      "M": 97,
+      "Moneypenny": 80,
+      "agentsSerialNumbers": [
+        "001",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Morty Smith",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Froopyland Chalk2",
+      "timeIssued": 115,
+      "QTime": 115,
+      "timeCreated": 115
+    },
+    {
+      "M": 99,
+      "Moneypenny": 84,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "002",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop",
+        "Morty Smith",
+        "Morty Jr.",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Neutrino bomb2",
+      "timeIssued": 117,
+      "QTime": 117,
+      "timeCreated": 117
+    },
+    {
+      "M": 98,
+      "Moneypenny": 82,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "004",
+        "005",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop",
+        "Morty Smith",
+        "Squanchy",
+        "Mr. Poopybutthole",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 117,
+      "QTime": 117,
+      "timeCreated": 117
+    },
+    {
+      "M": 89,
+      "Moneypenny": 78,
+      "agentsSerialNumbers": [
+        "002",
+        "005",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Morty Jr.",
+        "Mr. Poopybutthole",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Butter-passing robot",
+      "timeIssued": 128,
+      "QTime": 128,
+      "timeCreated": 128
+    },
+    {
+      "M": 87,
+      "Moneypenny": 74,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "003",
+        "006",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Morty Smith",
+        "Morty Jr.",
+        "Gazorpazorpfield",
+        "Mr. Meeseeks",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 126,
+      "QTime": 126,
+      "timeCreated": 126
+    },
+    {
+      "M": 88,
+      "Moneypenny": 76,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "006",
+        "007"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop",
+        "Morty Jr.",
+        "Mr. Meeseeks",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 127,
+      "QTime": 127,
+      "timeCreated": 127
+    },
+    {
+      "M": 91,
+      "Moneypenny": 82,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Morty Smith",
+        "Gazorpazorpfield",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Microverse battery",
+      "timeIssued": 132,
+      "QTime": 132,
+      "timeCreated": 132
+    },
+    {
+      "M": 92,
+      "Moneypenny": 84,
+      "agentsSerialNumbers": [
+        "001",
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Morty Smith",
+        "Morty Jr."
+      ],
+      "gadgetName": "Neutrino bomb2",
+      "timeIssued": 133,
+      "QTime": 133,
+      "timeCreated": 133
+    },
+    {
+      "M": 90,
+      "Moneypenny": 80,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "005",
+        "008",
+        "009"
+      ],
+      "agentsSerialNames": [
+        "Dr. Glip-Glop",
+        "Morty Jr.",
+        "Mr. Poopybutthole",
+        "Tiny Rick",
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 128,
+      "QTime": 128,
+      "timeCreated": 128
+    },
+    {
+      "M": 101,
+      "Moneypenny": 86,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Fart"
+      ],
+      "gadgetName": "Butter-passing robot4",
+      "timeIssued": 3,
+      "QTime": 3,
+      "timeCreated": 3
+    },
+    {
+      "M": 105,
+      "Moneypenny": 88,
+      "agentsSerialNumbers": [
+        "000",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Jessica",
+        "Fart"
+      ],
+      "gadgetName": "Timeline viewer",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 7
+    },
+    {
+      "M": 104,
+      "Moneypenny": 86,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Jessica"
+      ],
+      "gadgetName": "Butter-passing robot3",
+      "timeIssued": 6,
+      "QTime": 6,
+      "timeCreated": 6
+    },
+    {
+      "M": 102,
+      "Moneypenny": 90,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Scary Terry"
+      ],
+      "gadgetName": "Dream inceptor2",
+      "timeIssued": 5,
+      "QTime": 5,
+      "timeCreated": 5
+    },
+    {
+      "M": 100,
+      "Moneypenny": 88,
+      "agentsSerialNumbers": [
+        "001",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Squanchy",
+        "Fart"
+      ],
+      "gadgetName": "Timeline viewer2",
+      "timeIssued": 5,
+      "QTime": 5,
+      "timeCreated": 5
+    },
+    {
+      "M": 107,
+      "Moneypenny": 92,
+      "agentsSerialNumbers": [
+        "003",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Scary Terry",
+        "Fart"
+      ],
+      "gadgetName": "Love Potion2",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 8
+    },
+    {
+      "M": 103,
+      "Moneypenny": 92,
+      "agentsSerialNumbers": [
+        "000",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Jessica",
+        "Fart"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 6,
+      "QTime": 6,
+      "timeCreated": 6
+    },
+    {
+      "M": 101,
+      "Moneypenny": 88,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Jessica",
+        "Squanchy",
+        "Scary Terry"
+      ],
+      "gadgetName": "Dream inceptor2",
+      "timeIssued": 12,
+      "QTime": 12,
+      "timeCreated": 12
+    },
+    {
+      "M": 106,
+      "Moneypenny": 90,
+      "agentsSerialNumbers": [
+        "000",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Jessica",
+        "Scary Terry"
+      ],
+      "gadgetName": "Love Potion2",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 7
+    },
+    {
+      "M": 102,
+      "Moneypenny": 86,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Jessica",
+        "Scary Terry",
+        "Fart"
+      ],
+      "gadgetName": "Combat suit2",
+      "timeIssued": 14,
+      "QTime": 18,
+      "timeCreated": 14
+    },
+    {
+      "M": 104,
+      "Moneypenny": 90,
+      "agentsSerialNumbers": [
+        "002",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Baby Legs",
+        "Scary Terry"
+      ],
+      "gadgetName": "Dark matter2",
+      "timeIssued": 14,
+      "QTime": 14,
+      "timeCreated": 14
+    },
+    {
+      "M": 108,
+      "Moneypenny": 86,
+      "agentsSerialNumbers": [
+        "002",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Baby Legs",
+        "Fart"
+      ],
+      "gadgetName": "Laser Gun2",
+      "timeIssued": 10,
+      "QTime": 10,
+      "timeCreated": 10
+    },
+    {
+      "M": 102,
+      "Moneypenny": 92,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Scary Terry"
+      ],
+      "gadgetName": "Purge Suit2",
+      "timeIssued": 16,
+      "QTime": 27,
+      "timeCreated": 16
+    },
+    {
+      "M": 103,
+      "Moneypenny": 92,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Squanchy",
+        "Baby Legs",
+        "Scary Terry"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 14,
+      "QTime": 19,
+      "timeCreated": 14
+    },
+    {
+      "M": 105,
+      "Moneypenny": 92,
+      "agentsSerialNumbers": [
+        "002",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Baby Legs",
+        "Scary Terry"
+      ],
+      "gadgetName": "Laser Gun2",
+      "timeIssued": 15,
+      "QTime": 15,
+      "timeCreated": 15
+    },
+    {
+      "M": 101,
+      "Moneypenny": 88,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Jessica",
+        "Squanchy",
+        "Scary Terry"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 25,
+      "QTime": 25,
+      "timeCreated": 25
+    },
+    {
+      "M": 107,
+      "Moneypenny": 90,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Jessica",
+        "Scary Terry",
+        "Fart"
+      ],
+      "gadgetName": "Butter-passing robot",
+      "timeIssued": 15,
+      "QTime": 19,
+      "timeCreated": 15
+    },
+    {
+      "M": 100,
+      "Moneypenny": 88,
+      "agentsSerialNumbers": [
+        "002",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Baby Legs",
+        "Scary Terry"
+      ],
+      "gadgetName": "Demonic Alien Containment Box5",
+      "timeIssued": 12,
+      "QTime": 18,
+      "timeCreated": 12
+    },
+    {
+      "M": 104,
+      "Moneypenny": 88,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Fart"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 19,
+      "QTime": 27,
+      "timeCreated": 19
+    },
+    {
+      "M": 106,
+      "Moneypenny": 86,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsSerialNames": [
+        "Jessica",
+        "Baby Legs"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 20,
+      "QTime": 27,
+      "timeCreated": 20
+    },
+    {
+      "M": 109,
+      "Moneypenny": 94,
+      "agentsSerialNumbers": [
+        "003",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Jessica",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 112,
+      "Moneypenny": 96,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Eyeholes Man",
+        "Jessica",
+        "Unity"
+      ],
+      "gadgetName": "Shrink ray2",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 8
+    },
+    {
+      "M": 110,
+      "Moneypenny": 98,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "M": 111,
+      "Moneypenny": 100,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 7
+    },
+    {
+      "M": 113,
+      "Moneypenny": 98,
+      "agentsSerialNumbers": [
+        "002",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Morty Smith",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 13,
+      "QTime": 13,
+      "timeCreated": 13
+    },
+    {
+      "M": 116,
+      "Moneypenny": 96,
+      "agentsSerialNumbers": [
+        "000",
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Krombopulos Michael",
+        "Unity"
+      ],
+      "gadgetName": "Butter-passing robot",
+      "timeIssued": 15,
+      "QTime": 15,
+      "timeCreated": 15
+    },
+    {
+      "M": 117,
+      "Moneypenny": 94,
+      "agentsSerialNumbers": [
+        "000",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Krombopulos Michael",
+        "Jessica"
+      ],
+      "gadgetName": "Emergency Bionic Arm",
+      "timeIssued": 16,
+      "QTime": 16,
+      "timeCreated": 16
+    },
+    {
+      "M": 112,
+      "Moneypenny": 94,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Eyeholes Man",
+        "Jessica",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Grappling Shoes2",
+      "timeIssued": 19,
+      "QTime": 19,
+      "timeCreated": 19
+    },
+    {
+      "M": 109,
+      "Moneypenny": 98,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "006"
+      ],
+      "agentsSerialNames": [
+        "Krombopulos Michael",
+        "Morty Smith",
+        "Squanchy"
+      ],
+      "gadgetName": "Grappling Shoes3",
+      "timeIssued": 16,
+      "QTime": 16,
+      "timeCreated": 16
+    },
+    {
+      "M": 114,
+      "Moneypenny": 94,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Eyeholes Man",
+        "Morty Smith",
+        "Jessica"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 11,
+      "QTime": 11,
+      "timeCreated": 11
+    },
+    {
+      "M": 117,
+      "Moneypenny": 96,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Jessica"
+      ],
+      "gadgetName": "Interdimensional cable TV box",
+      "timeIssued": 24,
+      "QTime": 25,
+      "timeCreated": 24
+    },
+    {
+      "M": 111,
+      "Moneypenny": 96,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Eyeholes Man",
+        "Morty Smith",
+        "Jessica"
+      ],
+      "gadgetName": "Time freezer3",
+      "timeIssued": 18,
+      "QTime": 18,
+      "timeCreated": 18
+    },
+    {
+      "M": 115,
+      "Moneypenny": 100,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Krombopulos Michael",
+        "Jessica",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers",
+      "timeIssued": 15,
+      "QTime": 15,
+      "timeCreated": 15
+    },
+    {
+      "M": 117,
+      "Moneypenny": 96,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Krombopulos Michael",
+        "Eyeholes Man"
+      ],
+      "gadgetName": "Time freezer2",
+      "timeIssued": 42,
+      "QTime": 42,
+      "timeCreated": 42
+    },
+    {
+      "M": 115,
+      "Moneypenny": 96,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Jessica"
+      ],
+      "gadgetName": "Meeseeks Box",
+      "timeIssued": 40,
+      "QTime": 45,
+      "timeCreated": 40
+    },
+    {
+      "M": 116,
+      "Moneypenny": 100,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Krombopulos Michael",
+        "Morty Smith",
+        "Unity"
+      ],
+      "gadgetName": "Ionic Defibulizer3",
+      "timeIssued": 22,
+      "QTime": 22,
+      "timeCreated": 22
+    },
+    {
+      "M": 110,
+      "Moneypenny": 100,
+      "agentsSerialNumbers": [
+        "001",
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Eyeholes Man",
+        "Unity"
+      ],
+      "gadgetName": "Portal gun2",
+      "timeIssued": 17,
+      "QTime": 17,
+      "timeCreated": 17
+    },
+    {
+      "M": 112,
+      "Moneypenny": 100,
+      "agentsSerialNumbers": [
+        "004",
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Tammy Gueterman",
+        "Unity"
+      ],
+      "gadgetName": "Time freezer3",
+      "timeIssued": 31,
+      "QTime": 31,
+      "timeCreated": 31
+    },
+    {
+      "M": 113,
+      "Moneypenny": 98,
+      "agentsSerialNumbers": [
+        "000",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Krombopulos Michael",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Timeline viewer",
+      "timeIssued": 20,
+      "QTime": 20,
+      "timeCreated": 20
+    },
+    {
+      "M": 114,
+      "Moneypenny": 98,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsSerialNames": [
+        "Jessica"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 19,
+      "QTime": 30,
+      "timeCreated": 19
+    },
+    {
+      "M": 111,
+      "Moneypenny": 98,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "005"
+      ],
+      "agentsSerialNames": [
+        "Eyeholes Man",
+        "Morty Smith",
+        "Unity"
+      ],
+      "gadgetName": "Timeline viewer",
+      "timeIssued": 29,
+      "QTime": 43,
+      "timeCreated": 29
+    },
+    {
+      "M": 109,
+      "Moneypenny": 94,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "004"
+      ],
+      "agentsSerialNames": [
+        "Eyeholes Man",
+        "Jessica",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Shrink ray",
+      "timeIssued": 42,
+      "QTime": 42,
+      "timeCreated": 42
+    },
+    {
+      "M": 119,
+      "Moneypenny": 104,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Baby Legs"
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 3,
+      "QTime": 3,
+      "timeCreated": 3
+    },
+    {
+      "M": 120,
+      "Moneypenny": 106,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Shrimply Pibbles",
+        "Baby Legs"
+      ],
+      "gadgetName": "Interdimensional Goggles2",
+      "timeIssued": 6,
+      "QTime": 6,
+      "timeCreated": 6
+    },
+    {
+      "M": 118,
+      "Moneypenny": 102,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Baby Legs"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 122,
+      "Moneypenny": 104,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Shrimply Pibbles",
+        "Baby Legs"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 9,
+      "QTime": 9,
+      "timeCreated": 9
+    },
+    {
+      "M": 119,
+      "Moneypenny": 104,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Shrimply Pibbles"
+      ],
+      "gadgetName": "Microverse battery",
+      "timeIssued": 13,
+      "QTime": 13,
+      "timeCreated": 13
+    },
+    {
+      "M": 123,
+      "Moneypenny": 106,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Shrimply Pibbles",
+        "Baby Legs"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 11,
+      "QTime": 11,
+      "timeCreated": 11
+    },
+    {
+      "M": 120,
+      "Moneypenny": 106,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Baby Legs"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 13,
+      "QTime": 13,
+      "timeCreated": 13
+    },
+    {
+      "M": 123,
+      "Moneypenny": 106,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Baby Legs"
+      ],
+      "gadgetName": "Butter-passing robot",
+      "timeIssued": 16,
+      "QTime": 16,
+      "timeCreated": 16
+    },
+    {
+      "M": 121,
+      "Moneypenny": 102,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Baby Legs"
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 8
+    },
+    {
+      "M": 118,
+      "Moneypenny": 102,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Baby Legs"
+      ],
+      "gadgetName": "Interdimensional Goggles2",
+      "timeIssued": 19,
+      "QTime": 19,
+      "timeCreated": 19
+    },
+    {
+      "M": 124,
+      "Moneypenny": 102,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Shrimply Pibbles"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 12,
+      "QTime": 12,
+      "timeCreated": 12
+    },
+    {
+      "M": 122,
+      "Moneypenny": 104,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsSerialNames": [
+        "Shrimply Pibbles",
+        "Baby Legs"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster",
+      "timeIssued": 15,
+      "QTime": 15,
+      "timeCreated": 15
+    },
+    {
+      "M": 119,
+      "Moneypenny": 104,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsSerialNames": [
+        "Shrimply Pibbles"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster",
+      "timeIssued": 19,
+      "QTime": 19,
+      "timeCreated": 19
+    }
+  ],
+  "total": 416
+}
