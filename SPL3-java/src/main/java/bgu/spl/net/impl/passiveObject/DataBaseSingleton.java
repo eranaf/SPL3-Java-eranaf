@@ -18,4 +18,15 @@ public class DataBaseSingleton {
     public ConcurrentHashMap<String, User> getUsersHashMap() {
         return usersHashMap;
     }
+
+    public boolean userExist(String OwnerUsername){
+        return usersHashMap.containsKey(OwnerUsername);
+    }
+    public User getUser(String OwnerUsername){
+        return usersHashMap.get(OwnerUsername);
+    }
+    public void addNewUser(String ownerUsername, User user) {
+        usersHashMap.put(ownerUsername,user);
+    }
+
 }

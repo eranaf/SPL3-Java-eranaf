@@ -39,4 +39,14 @@ public class ConnectionImpl<T> implements Connections<T> {
 
     }
 
+    public void subscribe(String destination, int id, int subscribeId) {
+        channelHashMap.put(destination,new Pair_IdAndSubscribeId(id,subscribeId);
+    }
+
+    public void unsubscribe(Integer UnSubscribeId, String topic) {
+        channelHashMap.get(topic);
+        //todo finish
+        //????
+        //need to find the id(unSubscribeId) from list first of pair
+    }
 }

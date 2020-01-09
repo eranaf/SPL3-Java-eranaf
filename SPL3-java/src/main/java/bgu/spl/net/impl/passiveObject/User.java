@@ -8,7 +8,7 @@ public class User {
     private boolean isConnected;
     private int OwnerId;
 
-   // private ConcurrentHashMap<String,Integer> maby need to  save the topic subscribe?
+
 
     public User(String ownerUsername, String passcode, boolean isConnected, int ownerId) {
         this.OwnerUsername = ownerUsername;

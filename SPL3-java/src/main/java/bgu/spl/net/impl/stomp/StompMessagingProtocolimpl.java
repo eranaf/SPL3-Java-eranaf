@@ -13,6 +13,9 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
     private String OwnerUsername;
     private Connections<String> connections;
 
+    private ConcurrentHashMap<Integer, String> IdSubscribeToGenre; // idSubscribe-> GenreName//maby need to  save the topic subscribe?
+
+
     private boolean isLoggedIn = false;
 
     @Override
@@ -45,16 +48,18 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
                 dest.substring(dest.indexOf(":") + 1, dest.indexOf("\n"));
                 String id = messageBody.substring(messageBody.indexOf("id:"));
                 id.substring(id.indexOf(":") + 1, id.indexOf("\n"));
-                ConnectionImpl.subscribe(dest, id);
+                String receipt = messageBody.substring(messageBody.indexOf("id:"));
+                receipt.substring(id.indexOf(":") + 1, id.indexOf("\n"));
+                this.subscribe(dest, Integer.parseInt(id), receipt);
                 //Subscribe to topic for client id
 
             }
             case "UNSUBSCRIBE": {
-                String dest = messageBody.substring(messageBody.indexOf("destination:"));
-                dest.substring(dest.indexOf(":") + 1, dest.indexOf("\n"));
+                //String dest = messageBody.substring(messageBody.indexOf("destination:"));
+                //dest.substring(dest.indexOf(":") + 1, dest.indexOf("\n"));
                 String id = messageBody.substring(messageBody.indexOf("id:"));
                 id.substring(id.indexOf(":") + 1, id.indexOf("\n"));
-                ConnectionImpl.unsubscribe(dest, id);
+                this.unsubscribe(Integer.parseInt(id));
                 //Will unsubscribe from a topic
 
             }
@@ -74,13 +79,13 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
         return false;
     }
 
-    private void Connect(String message){
+    private void Connect(String message) {
         String[] split = message.split("\n");
         boolean success = true;
         String accept_version = null;
         String host;
-        String passcode ="";
-        if(split.length>=4) {
+        String passcode = "";
+        if (split.length >= 4) {
             if (split[0].indexOf("accept-version:") == 0) {
                 accept_version = split[0].substring(split[0].indexOf(":"));
             } else {//error
@@ -97,7 +102,7 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
                 passcode = split[3].substring(split[3].indexOf(":"));
             } else {//error
             }
-        }else{//error
+        } else {//error
         }
         //check body???
         //send connected
@@ -105,40 +110,50 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
 
     }
 
-    private boolean connect(String OwnerUsername, String passcode,String accept_version){
+    private boolean connect(String OwnerUsername, String passcode, String accept_version) {
         //TODO: synchronize
         //TODO: when ERROR ", it MUST then close the connection "! should close the socket?
-        ConcurrentHashMap<String, User> usersHashMap = DataBaseSingleton.getSingleton().getUsersHashMap();
-        if(usersHashMap.containsKey(OwnerUsername)){
-            User user = usersHashMap.get(OwnerUsername);
-            if(user.isConnected()){
+        DataBaseSingleton dataBaseSingleton = DataBaseSingleton.getSingleton();
+        if (dataBaseSingleton.userExist(OwnerUsername)) {
+            User user = dataBaseSingleton.getUser(OwnerUsername);
+            if (user.isConnected()) {
                 //send “User already logged in”.
-                connections.send(OwnerId,"ERROR +\n"+"message: User already logged in"+"\n\n\u0000");
+                connections.send(OwnerId, "ERROR +\n" + "message: User already logged in" + "\n\n\u0000");
                 return false;
-            }else{
-                if(user.getPasscode() != passcode){
+            } else {
+                if (user.getPasscode() != passcode) {
                     //send “Wrong password”.
-                    connections.send(OwnerId,"ERROR +\n"+"message: Wrong password"+"\n\n\u0000");
+                    connections.send(OwnerId, "ERROR +\n" + "message: Wrong password" + "\n\n\u0000");
                     return false;
-                }
-                else{
+                } else {
                     //CONNECTED
-                    connections.send(OwnerId,"CONNECTED +\n"+"version:"+accept_version+"\n\n\u0000");
+                    connections.send(OwnerId, "CONNECTED +\n" + "version:" + accept_version + "\n\n\u0000");
                     // send "Login successful.”
                     return true;
                 }
             }
-        }else{
-            usersHashMap.put(OwnerUsername,new User(OwnerUsername,passcode,true,OwnerId));
+        } else {
+            dataBaseSingleton.addNewUser(OwnerUsername, new User(OwnerUsername, passcode, true, OwnerId));
             //CONNECTED
-            connections.send(OwnerId,"CONNECTED +\n"+"version:"+accept_version+"\n\n\u0000");
+            connections.send(OwnerId, "CONNECTED +\n" + "version:" + accept_version + "\n\n\u0000");
             //send "Login successful”
             return true;
         }
     }
 
+    private void subscribe(String destination, Integer SubscribeId, String receipt) {
 
-    private void subscribe(String destination, String Id){
+        ((ConnectionImpl<String>) connections).subscribe(destination, OwnerId, SubscribeId);
+        IdSubscribeToGenre.put(SubscribeId, destination);
+        connections.send(OwnerId, "RECEIPT\nreceipt-id:" + receipt + "\n\n\u0000");
+    }
+
+    private void unsubscribe(Integer UnSubscribeId) {
+        String topic = IdSubscribeToGenre.remove(UnSubscribeId);
+        ((ConnectionImpl<String>)connections).unsubscribe(UnSubscribeId,topic);
+        connections.send(OwnerId, "RECEIPT\n" + "\n\n\u0000");
 
     }
+
+
 }
