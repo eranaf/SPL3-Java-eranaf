@@ -17,7 +17,7 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
 
     @Override
     public void start(int connectionId, Connections<String> connections) {
-        OwnerClient = connectionId;
+        OwnerId = connectionId;
         connections = connections;
 
     }
@@ -28,7 +28,7 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
         String messageBody = message.substring(message.indexOf("\n"));
         switch (StompCommand) {
             case "CONNECT": {
-
+                this.Connect(messageBody);
             }
             //message, RECEIPT, ERROR from server to client??
             case "SEND": {
@@ -105,7 +105,7 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
 
     }
 
-    public boolean connect(String OwnerUsername, String passcode,String accept_version){
+    private boolean connect(String OwnerUsername, String passcode,String accept_version){
         //TODO: synchronize
         //TODO: when ERROR ", it MUST then close the connection "! should close the socket?
         ConcurrentHashMap<String, User> usersHashMap = DataBaseSingleton.getSingleton().getUsersHashMap();
@@ -135,5 +135,10 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
             //send "Login successful”
             return true;
         }
+    }
+
+
+    private void subscribe(String destination, String Id){
+
     }
 }

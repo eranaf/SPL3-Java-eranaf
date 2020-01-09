@@ -1,10 +1,14 @@
 package bgu.spl.net.impl.passiveObject;
 
+import java.util.concurrent.ConcurrentHashMap;
+
 public class User {
     private String OwnerUsername;
     private String passcode;
     private boolean isConnected;
     private int OwnerId;
+
+   // private ConcurrentHashMap<String,Integer> maby need to  save the topic subscribe?
 
     public User(String ownerUsername, String passcode, boolean isConnected, int ownerId) {
         this.OwnerUsername = ownerUsername;

@@ -1,5 +1,6 @@
 package bgu.spl.net.impl;
 
+import bgu.spl.net.impl.passiveObject.Pair_IdAndSubscribeId;
 import bgu.spl.net.impl.passiveObject.User;
 import bgu.spl.net.srv.ConnectionHandler;
 import bgu.spl.net.srv.Connections;
@@ -11,8 +12,8 @@ import java.util.concurrent.ConcurrentHashMap;
 
 public class ConnectionImpl<T> implements Connections<T> {
     //private List<ConnectionHandlerImpl<T>> ConnectionHandlerList;
-    private ConcurrentHashMap<Integer, NonBlockingConnectionHandler<T>> ClientHashMap;//todo why non blocking???
-    private ConcurrentHashMap<String,List<Integer>> channelHashMap; //todo: mabye move to DataBase
+    private ConcurrentHashMap<Integer, NonBlockingConnectionHandler<T>> ClientHashMap; //todo why non blocking??? or both???
+    private ConcurrentHashMap<String,List<Pair_IdAndSubscribeId>> channelHashMap;// topic -> id & SubscribeId //todo: mabye move to DataBase
 
 
 
@@ -26,8 +27,8 @@ public class ConnectionImpl<T> implements Connections<T> {
 
     @Override
     public void send(String channel, T msg) {
-        for (Integer id: channelHashMap.get(channel))
-            ClientHashMap.get(id).send(msg);
+        for (Pair_IdAndSubscribeId idAndSubscribeId: channelHashMap.get(channel))
+            ClientHashMap.get(idAndSubscribeId.getId()).send(msg);
     }
 
     @Override
