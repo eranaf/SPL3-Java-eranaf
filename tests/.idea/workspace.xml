@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c81c5dca-d399-4c65-a57a-a5beba2dfb9a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/src/main/java/bgu/spl/net/impl/ConnectionImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SPL3-java/src/main/java/bgu/spl/net/impl/ConnectionImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/api/MessageEncoderDecoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/api/MessagingProtocol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/api/StompMessagingProtocol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/impl/ConnectionImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/impl/echo/EchoClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/impl/echo/EchoProtocol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/impl/echo/LineMessageEncoderDecoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/impl/newsfeed/FetchNewsCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/impl/newsfeed/NewsFeed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/impl/newsfeed/NewsFeedClientMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/impl/newsfeed/NewsFeedServerMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/impl/newsfeed/PublishNewsCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/impl/rci/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/impl/rci/ObjectEncoderDecoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/impl/rci/RCIClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/impl/rci/RemoteCommandInvocationProtocol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/srv/ActorThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/srv/ConnectionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/srv/Connections.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/srv/NonBlockingConnectionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/srv/Reactor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/srv/Server$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/target/classes/bgu/spl/net/srv/Server.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\ערן אפללו\IdeaProjects\tests\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WCjUWzljcjNXspCzIbPFTHcUY8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c81c5dca-d399-4c65-a57a-a5beba2dfb9a" name="Default Changelist" comment="" />
+      <created>1578660486192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578660486192</updated>
+      <workItem from="1578660490028" duration="339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Project_Structure" timestamp="1578660541425">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1578660541425" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1578660512957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578660512957" />
+    <state x="209" y="114" key="new project wizard" timestamp="1578660826446">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="114" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1578660826446" />
+  </component>
+</project>

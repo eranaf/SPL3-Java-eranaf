@@ -40,13 +40,11 @@ public class ConnectionImpl<T> implements Connections<T> {
     }
 
     public void subscribe(String destination, int id, int subscribeId) {
-        channelHashMap.put(destination,new Pair_IdAndSubscribeId(id,subscribeId);
+        channelHashMap.get(destination).add(new Pair_IdAndSubscribeId(id,subscribeId));
     }
 
-    public void unsubscribe(Integer UnSubscribeId, String topic) {
-        channelHashMap.get(topic);
-        //todo finish
-        //????
-        //need to find the id(unSubscribeId) from list first of pair
+    public void unsubscribe(int ownerId, Integer UnSubscribeId, String topic) {
+        channelHashMap.get(topic).remove(new Pair_IdAndSubscribeId(ownerId,UnSubscribeId));//I add equals to Pair_IdAndSubscribeId in order to do the search in list
+        //find the (id,unSubscribeId) from list and remove them
     }
 }

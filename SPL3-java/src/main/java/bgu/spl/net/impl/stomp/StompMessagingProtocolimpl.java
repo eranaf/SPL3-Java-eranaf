@@ -40,7 +40,7 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
                 String body = dest.substring(dest.indexOf("\n") + 1);
                 dest.substring(0, dest.indexOf("\n"));
                 //sends a message to a destination - a topic
-                ConnectionImpl.send(dest, body);
+                this.send(dest, body);
 
             }
             case "SUBSCRIBE": {
@@ -66,7 +66,7 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
             case "DISCONNECT": {
                 String receipt = messageBody.substring(messageBody.indexOf("receipt:"));
                 receipt.substring(receipt.indexOf(":") + 1, receipt.indexOf("\n"));
-                ConnectionImpl.disconnect(OwnerId, OwnerUsername);
+                this.disconnect(OwnerId, OwnerUsername,receipt);
                 //receipt can be added to any frame that needs response to the client
             }
         }
@@ -74,6 +74,9 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
         //process the message as needed in STOMP protocol
 
     }
+
+
+
     @Override
     public boolean shouldTerminate() {
         return false;
@@ -128,6 +131,7 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
                 } else {
                     //CONNECTED
                     connections.send(OwnerId, "CONNECTED +\n" + "version:" + accept_version + "\n\n\u0000");
+                    user.setConnected(true);
                     // send "Login successful.”
                     return true;
                 }
@@ -150,9 +154,28 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
 
     private void unsubscribe(Integer UnSubscribeId) {
         String topic = IdSubscribeToGenre.remove(UnSubscribeId);
-        ((ConnectionImpl<String>)connections).unsubscribe(UnSubscribeId,topic);
+        ((ConnectionImpl<String>)connections).unsubscribe(OwnerId,UnSubscribeId,topic);
         connections.send(OwnerId, "RECEIPT\n" + "\n\n\u0000");
 
+    }
+    private void disconnect(int ownerId, String ownerUsername, String receipt) {
+        for (Integer idSubscribe : IdSubscribeToGenre.keySet()) {
+            String topic = IdSubscribeToGenre.get(idSubscribe);
+            ((ConnectionImpl<String>)connections).unsubscribe(OwnerId,idSubscribe,topic);
+        }
+        IdSubscribeToGenre.clear(); //can change get to remove? or doing problem in iterator?
+
+
+        connections.send(OwnerId, "RECEIPT\nreceipt-id:" + receipt + "\n\n\u0000");
+        DataBaseSingleton dataBaseSingleton = DataBaseSingleton.getSingleton();
+        User user = dataBaseSingleton.getUser(OwnerUsername);
+        user.setConnected(false);
+        connections.disconnect(ownerId);
+
+    }
+    private void send(String dest, String body) {
+        //maybe need to send all function
+        //todo impliment
     }
 
 
