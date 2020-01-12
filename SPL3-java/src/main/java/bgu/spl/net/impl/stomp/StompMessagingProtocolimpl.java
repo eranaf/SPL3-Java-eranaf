@@ -1,9 +1,8 @@
 package bgu.spl.net.impl.stomp;
 
 import bgu.spl.net.api.StompMessagingProtocol;
-import bgu.spl.net.impl.ConnectionImpl;
-import bgu.spl.net.impl.passiveObject.DataBaseSingleton;
-import bgu.spl.net.impl.passiveObject.User;
+import bgu.spl.net.impl.stomp.passiveObject.DataBaseSingleton;
+import bgu.spl.net.impl.stomp.passiveObject.User;
 import bgu.spl.net.srv.Connections;
 
 import java.util.concurrent.ConcurrentHashMap;
@@ -36,7 +35,7 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
             //message, RECEIPT, ERROR from server to client??
             case "SEND": {
                 String dest = messageBody.substring(messageBody.indexOf("destination:"));
-                dest.substring(dest.indexOf(":") + 1);
+                dest = dest.substring(dest.indexOf(":") + 1);
                 String body = dest.substring(dest.indexOf("\n") + 1);
                 dest.substring(0, dest.indexOf("\n"));
                 //sends a message to a destination - a topic
@@ -45,11 +44,11 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
             }
             case "SUBSCRIBE": {
                 String dest = messageBody.substring(messageBody.indexOf("destination:"));
-                dest.substring(dest.indexOf(":") + 1, dest.indexOf("\n"));
+                dest= dest.substring(dest.indexOf(":") + 1, dest.indexOf("\n"));
                 String id = messageBody.substring(messageBody.indexOf("id:"));
-                id.substring(id.indexOf(":") + 1, id.indexOf("\n"));
+                id= id.substring(id.indexOf(":") + 1, id.indexOf("\n"));
                 String receipt = messageBody.substring(messageBody.indexOf("id:"));
-                receipt.substring(id.indexOf(":") + 1, id.indexOf("\n"));
+                receipt= receipt.substring(id.indexOf(":") + 1, id.indexOf("\n"));
                 this.subscribe(dest, Integer.parseInt(id), receipt);
                 //Subscribe to topic for client id
 
@@ -58,14 +57,14 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
                 //String dest = messageBody.substring(messageBody.indexOf("destination:"));
                 //dest.substring(dest.indexOf(":") + 1, dest.indexOf("\n"));
                 String id = messageBody.substring(messageBody.indexOf("id:"));
-                id.substring(id.indexOf(":") + 1, id.indexOf("\n"));
+                id= id.substring(id.indexOf(":") + 1, id.indexOf("\n"));
                 this.unsubscribe(Integer.parseInt(id));
                 //Will unsubscribe from a topic
 
             }
             case "DISCONNECT": {
                 String receipt = messageBody.substring(messageBody.indexOf("receipt:"));
-                receipt.substring(receipt.indexOf(":") + 1, receipt.indexOf("\n"));
+                receipt = receipt.substring(receipt.indexOf(":") + 1, receipt.indexOf("\n"));
                 this.disconnect(OwnerId, OwnerUsername,receipt);
                 //receipt can be added to any frame that needs response to the client
             }
@@ -175,7 +174,7 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
     }
     private void send(String dest, String body) {
         //maybe need to send all function
-        //todo impliment
+        ((ConnectionImpl<String>)connections).send(dest,body);
     }
 
 

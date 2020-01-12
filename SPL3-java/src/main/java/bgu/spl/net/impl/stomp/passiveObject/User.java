@@ -1,6 +1,4 @@
-package bgu.spl.net.impl.passiveObject;
-
-import java.util.concurrent.ConcurrentHashMap;
+package bgu.spl.net.impl.stomp.passiveObject;
 
 public class User {
     private String OwnerUsername;

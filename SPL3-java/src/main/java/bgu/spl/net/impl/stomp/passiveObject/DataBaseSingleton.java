@@ -1,4 +1,4 @@
-package bgu.spl.net.impl.passiveObject;
+package bgu.spl.net.impl.stomp.passiveObject;
 
 import java.util.concurrent.ConcurrentHashMap;
 
