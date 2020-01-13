@@ -9,4 +9,6 @@ public interface Connections<T> {
     void send(String channel, T msg);
 
     void disconnect(int connectionId);
+
+    void addCleint(int connectionId, ConnectionHandler<T> handler);
 }

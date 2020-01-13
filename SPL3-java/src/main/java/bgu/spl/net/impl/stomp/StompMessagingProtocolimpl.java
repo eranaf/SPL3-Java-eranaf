@@ -7,7 +7,7 @@ import bgu.spl.net.srv.Connections;
 
 import java.util.concurrent.ConcurrentHashMap;
 
-public class StompMessagingProtocolimpl implements StompMessagingProtocol {
+public class StompMessagingProtocolimpl implements StompMessagingProtocol<String> {
     private int OwnerId;
     private String OwnerUsername;
     private Connections<String> connections;
@@ -20,7 +20,7 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
     @Override
     public void start(int connectionId, Connections<String> connections) {
         OwnerId = connectionId;
-        connections = connections;
+        this.connections = connections;
 
     }
 
@@ -146,21 +146,21 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
 
     private void subscribe(String destination, Integer SubscribeId, String receipt) {
 
-        ((ConnectionImpl<String>) connections).subscribe(destination, OwnerId, SubscribeId);
+        ((ConnectionImpl) connections).subscribe(destination, OwnerId, SubscribeId);
         IdSubscribeToGenre.put(SubscribeId, destination);
         connections.send(OwnerId, "RECEIPT\nreceipt-id:" + receipt + "\n\n\u0000");
     }
 
     private void unsubscribe(Integer UnSubscribeId) {
         String topic = IdSubscribeToGenre.remove(UnSubscribeId);
-        ((ConnectionImpl<String>)connections).unsubscribe(OwnerId,UnSubscribeId,topic);
+        ((ConnectionImpl)connections).unsubscribe(OwnerId,UnSubscribeId,topic);
         connections.send(OwnerId, "RECEIPT\n" + "\n\n\u0000");
 
     }
     private void disconnect(int ownerId, String ownerUsername, String receipt) {
         for (Integer idSubscribe : IdSubscribeToGenre.keySet()) {
             String topic = IdSubscribeToGenre.get(idSubscribe);
-            ((ConnectionImpl<String>)connections).unsubscribe(OwnerId,idSubscribe,topic);
+            ((ConnectionImpl)connections).unsubscribe(OwnerId,idSubscribe,topic);
         }
         IdSubscribeToGenre.clear(); //can change get to remove? or doing problem in iterator?
 
@@ -174,7 +174,7 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol {
     }
     private void send(String dest, String body) {
         //maybe need to send all function
-        ((ConnectionImpl<String>)connections).send(dest,body);
+        connections.send(dest,body);
     }
 
 

@@ -1,6 +1,7 @@
 package bgu.spl.net.impl.stomp;
 
 import bgu.spl.net.impl.stomp.passiveObject.Pair_IdAndSubscribeId;
+import bgu.spl.net.srv.BlockingConnectionHandler;
 import bgu.spl.net.srv.ConnectionHandler;
 import bgu.spl.net.srv.Connections;
 
@@ -13,6 +14,11 @@ public class ConnectionImpl implements Connections<String> {
     private ConcurrentHashMap<Integer, ConnectionHandler<String>> ClientHashMap; //todo why non blocking??? or both???
     private ConcurrentHashMap<String,List<Pair_IdAndSubscribeId>> channelHashMap;// topic -> id & SubscribeId //todo: mabye move to DataBase
     private static int MessageId =1;
+
+    public ConnectionImpl() {
+        ClientHashMap = new ConcurrentHashMap<>();
+        channelHashMap = new ConcurrentHashMap<>();
+    }
 
 
     @Override
@@ -35,7 +41,13 @@ public class ConnectionImpl implements Connections<String> {
         ClientHashMap.remove(connectionId);
         //remove from List channel
         //TODO: should close the socket?
+        //TODO: what to do with handler
 
+    }
+
+    @Override
+    public void addCleint(int connectionId, ConnectionHandler<String> handler) {
+        ClientHashMap.put(connectionId,handler);
     }
 
     public void subscribe(String destination, int id, int subscribeId) {
