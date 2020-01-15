@@ -5,6 +5,7 @@ import bgu.spl.net.srv.BlockingConnectionHandler;
 import bgu.spl.net.srv.ConnectionHandler;
 import bgu.spl.net.srv.Connections;
 
+import java.io.IOException;
 import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
 
@@ -38,11 +39,11 @@ public class ConnectionImpl implements Connections<String> {
 
     @Override
     public void disconnect(int connectionId) {
-        ClientHashMap.remove(connectionId);
-        //remove from List channel
-        //TODO: should close the socket?
-        //TODO: what to do with handler
-
+        try {
+            ClientHashMap.remove(connectionId).close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
     @Override

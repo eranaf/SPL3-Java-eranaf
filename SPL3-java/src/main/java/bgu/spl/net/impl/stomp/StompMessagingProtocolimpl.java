@@ -88,7 +88,7 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol<String
         String host;
         String passcode = "";
         if (split.length >= 4) {
-            if (split[0].indexOf("accept-version:") == 0) {
+            if (split[0].indexOf("accept-version:") == 0) {// what to do with this shit
                 accept_version = split[0].substring(split[0].indexOf(":"));
             } else {//error
             }
@@ -96,7 +96,7 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol<String
                 host = split[1].substring(split[1].indexOf(":"));
             } else {//error
             }
-            if (split[2].indexOf("host:") == 0) {
+            if (split[2].indexOf("login:") == 0) {
                 OwnerUsername = split[2].substring(split[2].indexOf(":"));
             } else {//error
             }

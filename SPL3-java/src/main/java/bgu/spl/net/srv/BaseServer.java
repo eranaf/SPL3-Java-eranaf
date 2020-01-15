@@ -48,7 +48,7 @@ public abstract class BaseServer<T> implements Server<T> {
                         encdecFactory.get(),
                         tStompMessagingProtocol);
                 _Connections.addCleint(connectionId,handler);
-                connectionId++;//todo sync connectionId
+                connectionId++;
 
                 execute(handler);
             }
