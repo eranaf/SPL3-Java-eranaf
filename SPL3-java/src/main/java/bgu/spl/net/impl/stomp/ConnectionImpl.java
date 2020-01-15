@@ -14,7 +14,7 @@ public class ConnectionImpl implements Connections<String> {
     //private List<ConnectionHandlerImpl<T>> ConnectionHandlerList;
     private ConcurrentHashMap<Integer, ConnectionHandler<String>> ClientHashMap; //todo why non blocking??? or both???
     private ConcurrentHashMap<String,List<Pair_IdAndSubscribeId>> channelHashMap;// topic -> id & SubscribeId //todo: mabye move to DataBase
-    private static int MessageId =1;
+    private static Integer MessageId =1;
 
     public ConnectionImpl() {
         ClientHashMap = new ConcurrentHashMap<>();
@@ -32,9 +32,13 @@ public class ConnectionImpl implements Connections<String> {
 
     @Override
     public void send(String channel, String msg) {
+        int tempMessageId;
+        synchronized (MessageId) {
+            tempMessageId=MessageId;
+            MessageId++;
+        }
         for (Pair_IdAndSubscribeId idAndSubscribeId: channelHashMap.get(channel))
-            ClientHashMap.get(idAndSubscribeId.getId()).send("MESSAGE\nsubscription:"+idAndSubscribeId.getSubscribeId()+"\nMessage-id:"+MessageId+"\ndestination:"+channel+"\n");
-        MessageId++;
+            ClientHashMap.get(idAndSubscribeId.getId()).send("MESSAGE\nsubscription:"+idAndSubscribeId.getSubscribeId()+"\nMessage-id:"+tempMessageId+"\ndestination:"+channel+"\n");
     }
 
     @Override
