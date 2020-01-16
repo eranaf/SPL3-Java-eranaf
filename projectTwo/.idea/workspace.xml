@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f82c0a7d-b5a6-4ef9-985d-34bdad6fc69a" name="Default Changelist" comment="" />
+    <list default="true" id="f82c0a7d-b5a6-4ef9-985d-34bdad6fc69a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SPL3-java/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/src/main/java/bgu/spl/net/impl/ConnectionImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SPL3-java/src/main/java/bgu/spl/net/impl/stomp/ConnectionImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/src/main/java/bgu/spl/net/impl/passiveObject/DataBaseSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SPL3-java/src/main/java/bgu/spl/net/impl/stomp/passiveObject/DataBaseSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/src/main/java/bgu/spl/net/impl/passiveObject/Pair_IdAndSubscribeId.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SPL3-java/src/main/java/bgu/spl/net/impl/stomp/passiveObject/Pair_IdAndSubscribeId.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/src/main/java/bgu/spl/net/impl/passiveObject/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SPL3-java/src/main/java/bgu/spl/net/impl/stomp/passiveObject/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPL3-java/src/main/java/bgu/spl/net/impl/stomp/StompMessagingProtocolimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SPL3-java/src/main/java/bgu/spl/net/impl/stomp/StompMessagingProtocolimpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +26,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GroovyConsoleState">
     <option name="list">
@@ -36,6 +48,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1UyJ8JTQzZLWYDnX3xYXDDREHmh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -43,6 +56,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowDuplicates.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -166,6 +180,7 @@
       <workItem from="1577907805449" duration="3717000" />
       <workItem from="1578501771825" duration="45000" />
       <workItem from="1578503455561" duration="311000" />
+      <workItem from="1578849363311" duration="773000" />
     </task>
     <servers />
   </component>
