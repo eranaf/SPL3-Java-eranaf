@@ -4,12 +4,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 public class DataBaseSingleton {
     static private DataBaseSingleton singleton = new DataBaseSingleton();
-
-    private ConcurrentHashMap<String, User> usersHashMap; //userName -> User
-
-    private void DataBaseSingleton(){
-        usersHashMap = new ConcurrentHashMap();
-    }
+    private ConcurrentHashMap<String, User> usersHashMap = new ConcurrentHashMap();; //userName -> User
 
     public static DataBaseSingleton getSingleton() {
         return singleton;

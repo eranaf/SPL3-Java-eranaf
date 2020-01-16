@@ -27,10 +27,11 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol<String
     @Override
     public void process(String message) {
         String StompCommand = message.substring(0, message.indexOf("\n"));
-        String messageBody = message.substring(message.indexOf("\n"));
+        String messageBody = message.substring(message.indexOf("\n")+1);
         switch (StompCommand) {
             case "CONNECT": {
                 this.Connect(messageBody);
+                break;
             }
             //message, RECEIPT, ERROR from server to client??
             case "SEND": {
@@ -40,7 +41,7 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol<String
                 dest.substring(0, dest.indexOf("\n"));
                 //sends a message to a destination - a topic
                 this.send(dest, body);
-
+                break;
             }
             case "SUBSCRIBE": {
                 String dest = messageBody.substring(messageBody.indexOf("destination:"));
@@ -51,7 +52,7 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol<String
                 receipt= receipt.substring(id.indexOf(":") + 1, id.indexOf("\n"));
                 this.subscribe(dest, Integer.parseInt(id), receipt);
                 //Subscribe to topic for client id
-
+                break;
             }
             case "UNSUBSCRIBE": {
                 //String dest = messageBody.substring(messageBody.indexOf("destination:"));
@@ -60,13 +61,14 @@ public class StompMessagingProtocolimpl implements StompMessagingProtocol<String
                 id= id.substring(id.indexOf(":") + 1, id.indexOf("\n"));
                 this.unsubscribe(Integer.parseInt(id));
                 //Will unsubscribe from a topic
-
+                break;
             }
             case "DISCONNECT": {
                 String receipt = messageBody.substring(messageBody.indexOf("receipt:"));
                 receipt = receipt.substring(receipt.indexOf(":") + 1, receipt.indexOf("\n"));
                 this.disconnect(OwnerId, OwnerUsername,receipt);
                 //receipt can be added to any frame that needs response to the client
+                break;
             }
         }
         //protocol.process(message)
